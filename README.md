@@ -10,3 +10,4 @@ Hey guys, here is the repository for storing all the files for our final assessm
 
 - why choose the timeframe of “past 50 years”:
 
+- to understand the underlying issues contributing to the Lebanese energy crisis and explore potential solutions:
