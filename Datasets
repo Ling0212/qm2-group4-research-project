@@ -1,28 +1,2 @@
-Here are the potential datasets we could use: 
-1. the amount of energy supply OR the unit price the residents have to pay→ we need a link for this dataset - Diane
-measures of electricity supply: 1. regular ways of calculating 2. generator (a fixed price, a few hundreds)
-https://www.iea.org/countries/lebanon <- reliable & consistent
-Electric power consumption (kWh per capita) - Lebanon from 1971 to 2014
-https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC?locations=LB
+Here are the potential datasets we could use:
 
-2. divide the political parties into different categories
-could use the line graph to show the data pattern of changes of energy usage across different years when the political parties change→ more research needs to be done!
-But there is a key limitation: yearly population growth could be a confounding factor, also, we cannot really say/comment anything about the politics in Lebanon, so we can just delete this political perspective if our RQ decides to focus on “Ethnicity”, the distribution of ethnic groups, etc.
-
-3. the population/percentage of a specific religious group in different cities of Lebanon 
-using aggregated data, how concentrated the religious group is
-how to relate this to the variable of electricity supply?
-
-4. general demographic data could be useful: 
-online web (not reliable) https://www.worldometers.info/world-population/lebanon-population/
-Wikipedia page (not reliable) https://en.wikipedia.org/wiki/Demographics_of_Lebanon
-Wikipedia page (not reliable) https://en.wikipedia.org/wiki/Religion_in_Lebanon
-
-5. this website has some good data, but not sure how to download them: https://www.livepopulation.com/country/lebanon.html
-
-6. Good, downloadable world bank data from before 1985 - 2020 (migration trend, refugee population trend, gender trend, age dependency ration): https://data.worldbank.org/indicator/SM.POP.REFG.OR?end=2020&locations=LB&start=1982&view=chart could delete, not relevant to the RQ
-
-7. Useful data but undownloadable source: Population growth trend 1996-2017 per administrative region in Lebanon: https://www.citypopulation.de/en/lebanon/admin/; this is also available for cities: https://www.citypopulation.de/en/lebanon/cities/ 
-could delete, not relevant to the RQ
-
-8. Lebanese government web page for statistics with a lots of downloadable data on households, economy, population (most reliable dataset): http://www.cas.gov.lb/index.php/about-lebanon-en
