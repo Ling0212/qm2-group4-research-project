@@ -1,2 +1,26 @@
 Here are the potential datasets we could use:
 
+we will use a range of datasets to reflect the national energy supply in Lebanon
+* per capita data is used to avoid the impact of confounding factor e.g. population on electricity consumption
+-Total energy supply (TES) per capita, Lebanon 1990-2019 https://www.iea.org/countries/lebanon
+-Electricity consumption per capita, Lebanon 1990-2020 https://www.iea.org/countries/lebanon
+ 
+Electricity production from oil, gas and coal sources (% of total), Lebanon, 1971-2015
+ 
+these two datasets are not freely available:
+-Coal production, thousand short tons, Lebanon 1980-2020
+-Oil production, thousand barrels per day, Lebanon 1980-2020
+  
+Economic performance: reflected using GDP per capita - to avoid the impact of confounding factor e.g. population on economic performance
+-GDP itself can be measured in either PPP (purchasing power parities) or MER (market exchange rates), the link between these two measure to  energy demand / consumption can vary depending on the level of development of the country
+
+Human development: reflected using a range of indices
+-Human Development Index (HDI) http://hdr.undp.org/en/content/human-development-index-hdi
+-Social Progress Index (SPI)
+“The Social Progress Index is a new way to define the success of our societies. It is a comprehensive measure of real quality of life, independent of economic indicators. The Social Progress Index is designed to complement, rather than replace, economic measures such as GDP.
+Each year, Social Progress Imperative conducts a comprehensive review of all indicators included in the Social Progress Index framework to check data updates (which frequently include retroactive revisions) and whether new indicators have been published that are well-suited to describing social progress concepts. Such a review necessitates a recalculation of previously published versions of the Social Progress Index, as any removal or additions of indicators to the framework or changes due to retroactive revisions in data from the original data sources prevent comparability between previously published versions of the Social Progress Index and the 2019 Social Progress Index. Therefore, using the 2019 Social Progress Index framework and methodology, we provide comparable historical data for additional five years of the Social Progress Index, from 2014 to 2018.” https://public.knoema.com/fdnnasd/social-progress-index-2019?country=1001170-lebanon
+- … (or any other similar indices with data available)
+- Happy Planet Index (HPI) - created by a team commissioned by the UK government office https://happyplanetindex.org/trends/
+“The Happy Planet Index is a measure of sustainable wellbeing, ranking countries by how efficiently they deliver long, happy lives using our limited environmental resources. It measures what truly matters to us – our wellbeing in terms of long, happy, and meaningful lives – and what matters to the planet – our rate of resource consumption.”
+Interesting index that could be relevant. Main issue is that its oldest data starts in 2007  
+
