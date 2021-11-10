@@ -1,0 +1,13 @@
+For Data Manipulation section:
+- presentation of the relevant datasets potentially used in our researh conduct : 
+>> TES/per capita, in Lebanone 1990-2019; Electricity + Electricity consumption/per capita, in Lebanon 1990-2020 = both variables that describe the Lebanese energy supply
+>> Economic performance with GDP/capita + HDI + SPI = variables that describe the Lebanes well-being
+- use techniques of cleaning & segmenting: for ex, segmenting in order to select the data that precisely regard electricity service/consumption 
+- analyse of the distrbution of the chosen data: box-plots tool to visually interpret the distribution // describe the distribution: parametric/non-parametric, symmetric/asymmetric (Gaussian, bimodal or not...)
+- possiblity of applying clustering method to our data
+
+For Coding & Data Visualisation section:
+- examine the correlation between our slected variables, aiming to depict the correlation between Lebanese Energy/Electricity supply and Lebanese well-being
+- various quantitative methods at our disposition:
+>> in case of non-parametric/not anticipated distribution, i.e. not describing a linear/monotonic relation: Kendall tau (already applied it last year :))
+>> Spearman & Pearson correlation coefficients: possible linear regression analysis, calculation of the p-value and R^2
