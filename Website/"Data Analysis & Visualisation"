@@ -5,12 +5,14 @@ Methods of data analysis:
 1. to summarise and present a quick overview of all the datasets that we used, the descriptive summary statistics for all datasets used (i.e., the energy consumption per capita, real GDP per capita, HDI index) in the Table 1 below.
 --> the values of mean, max, min, standard deviation (spread/variation)
 
-2. plot the data distribution using Python
 
 Methods of data visualisation:
-1. line graph, linear regression (Pearson coefficients, R-squared values)
-2. violin plot
-3. cluserting graphs
+1. plot the data distribution using Python
+2. histograms (or boxplots)
+3. line graph, linear regression--> analyse the Pearson coefficients, R-squared values etc.
+4. violin plot
+5. cluserting graphs
+
 
 Data analysis derived from the visualisations
 "Seen from Figure 1, it ..."(analyse data further based on the visualisations we made)
