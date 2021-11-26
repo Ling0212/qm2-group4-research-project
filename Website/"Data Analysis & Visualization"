@@ -16,11 +16,10 @@ As we have different units and distributions in the five variables, technical st
 Perform clustering on all the variables by years & calculate Silhouette scores to assess the clustering quality, i.e. how strongly data is clustered→ The clustering results with the optimal number of clusters (highest silhouette scores) will be ultimately presented, summarized and analyzed.→ to identify different clusters of years→ analyse the electricity consumption/energy supply per capita & social wellbeing relationship in relation to turbulent events that repeatedly happened in certain clustered years
 * present six clustering graphs
 
-【Violinplots】- Lydia
-(for the complementary investigation) Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Isarel across 29 years), to ascertain whether Isarel is a ‘similar’ country or not
+【Violinplots & Complementary investigation】- Lydia (violinplots, clustering), Ling (regression)
+Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Isarel across 29 years), to ascertain whether Isarel is a ‘similar’ country or not
+https://www.python-graph-gallery.com/54-grouped-violinplot
 x-axis: Year; y-axis: Total Energy Supply per capita
 x-axis: Year; y-axis: Total Electricity generation  
-https://www.python-graph-gallery.com/54-grouped-violinplot
 
-【Complementary investigation】- Lydia & Marie
- repeat 2 and 3 for the data on Isarel
+repeat regression and clusering for the data on Isarel
