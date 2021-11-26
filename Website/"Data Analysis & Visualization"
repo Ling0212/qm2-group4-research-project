@@ -1,18 +1,17 @@
-Inspired and guided by the lecture on Data Science Process from the course BASC0005 that we all had, we have adopted a typical methodology for this data science project. 
-After the problem is clearly defined seen from above, the summary of all datasets was carried out in Python.
-
-Methods of data analysis: 
-1. to summarise and present a quick overview of all the datasets that we used, the descriptive summary statistics for all datasets used (i.e., the energy consumption per capita, real GDP per capita, HDI index) in the Table 1 below.
+【Summary data analysis】- Marie
+After the problem is clearly defined, the summary of all datasets was carried out using Python.
+# the big descriptive summary statistics table
+to summarise and present a quick overview of all the datasets that we used, the descriptive summary statistics for all datasets used
 --> the values of mean, max, min, standard deviation (spread/variation)
 
+# all histograms 
+plot the data distribution using Python
+ 
+【ANOVA & Regression (linear regression graphs + multiple regression graphs)】- Ling
+-line graph--> analyse the Pearson coefficients, R-squared values etc.
 
-Methods of data visualisation:
-1. plot the data distribution using Python
-2. histograms (or boxplots)
-3. line graph, linear regression--> analyse the Pearson coefficients, R-squared values etc.
-4. violin plot
-5. cluserting graphs
+【Clusering】- Lydia
 
+【Violinplots】- Lydia
 
-Data analysis derived from the visualisations
-"Seen from Figure 1, it ..."(analyse data further based on the visualisations we made)
+【Complementary investigation】
