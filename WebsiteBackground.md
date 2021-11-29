@@ -5,6 +5,7 @@ While much literature has focused on classical economic analysis (Moore & Collin
 
 # Problem Definition
 Based on this literature review, to further corroborate or testify the existing narratives, a more quantitative approach to this subject is required, where lies our research, aiming to fill such a literature gap and to implement the knowledge base in this field. Our research question is, therefore, developed, that is - Is there any relationship between energy supply and social wellbeing (measured by economic performance and human development) in Lebanese society from 1990 to 2019 and how might any relationship be explained?
+
 Originally, we intended to carry out research on the past fifty years’ data, but later depending on the open data available online, the research timeframe is adjusted and narrowed down to the 29-years duration from 1990 to 2019. 
 
 # Our Aims/Motivations
@@ -16,9 +17,12 @@ Originally, we intended to carry out research on the past fifty years’ data, b
 # Our Objectives
 *Generally, our project can be divided into two research stages with a focus on primary investigation. 
 1. Primary investigation
+
 Explore any possible correlation/relationship between total energy supply per capita and the variables we selected to measure human development.
+
 2. Secondary investigation (Complementary investigation)
-We are curious to see if any identified relationship is unique to Lebanon only. We acknowledged that Jordan may be one similar, comparable Middle Eastern country to Lebanon in this case, given that Jordan is also reported to have suffered from energy crisis (with heavy reliance on imported sources to meet its energy needs and failure to develop domestic sources of energy in the past decades; escalating energy bills and electricity costs (Power Technology, 2018); governmental transparency and corruption as major obstacles to energy reform) (Whitman, 2015).
+
+We are curious to see if any identified relationship is unique to Lebanon only. We acknowledged that Jordan may be one similar, comparable Middle Eastern country to Lebanon in this case, given that Jordan was also reported to have suffered from energy crisis (with heavy reliance on imported sources to meet its energy needs and failure to develop domestic sources of energy in the past decades; escalating energy bills and electricity costs (Power Technology, 2018); governmental transparency and corruption as major obstacles to energy reform) (Whitman, 2015).
 * Perform the same data science and visualisation techniques on the data collected for Jordan. 
 * Discuss and compare the research findings obtained from two research stages.
 
