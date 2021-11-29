@@ -1,14 +1,14 @@
 # Summary data analysis - Marie
 After the problem is clearly defined, the summary of all datasets was carried out using Python.
 
-the big descriptive summary statistics table
-to summarise and present a quick overview of all the datasets that we used, the descriptive summary statistics for all datasets used
-the values of mean, max, min, standard deviation (spread/variation)
+To give a quick overview of all the data that we used, the summary statistics table (Table 1) is presented with descriptive summary statistics for all datasets used in our research.
+
+-analysis of outliers
 
 <img width="819" alt="Capture d’écran 2021-11-29 à 3 04 18 PM" src="https://user-images.githubusercontent.com/93673467/143891708-727777cc-0269-45ab-a7ce-919f7cb19dd1.png">
 
-all histograms 
-plot the data distribution using Python
+
+The histograms are plotted using Python to show data distribution.
 
 <img width="594" alt="Capture d’écran 2021-11-29 à 10 27 37 AM" src="https://user-images.githubusercontent.com/93673467/143891846-1bdcde02-2561-4122-951e-e414f09825e3.png">
 <img width="384" alt="Capture d’écran 2021-11-29 à 3 06 47 PM" src="https://user-images.githubusercontent.com/93673467/143892331-066d53b0-e96f-4207-9176-ae5722abce1d.png">
@@ -23,8 +23,8 @@ linear regression graphs + multiple regression graphs
 -line graph
 --> analyse the Pearson coefficients, R-squared values etc., Kendall tau correlation coefficients - to show that there is a non-linear relationship between two variables
 <img width="897" alt="Capture d’écran 2021-11-29 à 3 08 58 PM" src="https://user-images.githubusercontent.com/93673467/143892495-1446642f-bb19-4530-81de-afa4de4828da.png">
-(TEG: total electricity generation)
 <img width="443" alt="Capture d’écran 2021-11-29 à 3 09 56 PM" src="https://user-images.githubusercontent.com/93673467/143892683-e4b1c59b-2947-4d40-93be-036ebcb133c6.png">
+(TEG: total electricity generation)
 
 # Clustering - Lydia
 As we have different units and distributions in the five variables, technical standardization will be applied across the datasets using the formula 𝑧 = (𝑥−𝜇 )/𝜎 (whether use Z-score standardization depends on whether all data points are roughly symmetrically distributed) in Excel, to obtain manipulated data on a comparable scale. 		
