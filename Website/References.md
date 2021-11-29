@@ -2,6 +2,8 @@
 
 (we can all use this guide for the referencing format consistently: https://library-guides.ucl.ac.uk/harvard/web-page)
 
+Banerjee, R., Benson, S. M., Bouille, D. H., Brew-Hammond A., Cherp, A., Coelho, S. T., Emberson, L., Figueroa, M. J., et al (2012). Global Energy Assessment – Toward a Sustainable Future. Edited by Johansson, T. B., Patwardhan, A., Nakicenovic, N., Gomez-Echeverri, L. Cambridge University Press, Cambridge UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria.
+
 BBC News (2019). Lebanon electricity crisis: Stealing power to survive. Available at: https://www.bbc.co.uk/news/world-middle-east-50760043 (Accessed: 1 Novomber 2021).
 
 BBC News (2021). Lebanon: Karpowership shuts down electricity supply. Available at: https://www.bbc.co.uk/news/world-middle-east-57112611 (Accessed: 1 Novomber 2021).
