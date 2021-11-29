@@ -27,7 +27,7 @@ Lebanon total population, Jordan total population:: Total population is based on
 
 *How do we manipulate and deal with some raw data?      
 
-To obtain the dataset for total electricity generation per capita, we … --> Show what software and Python libraries we used, i.e. how we performed data manipulation on these two raw datasets - "Electricity generation by source" and "Lebanon total popultaion"
+To obtain the data for total electricity generation per capita, we … --> show what software and Python libraries we used, i.e. how we performed data manipulation on the raw data - "Electricity generation by source" and "Lebanon total popultaion"
 
 “describe the way your group applied a particular methodology: the software used, problems encountered, solutions found etc.”		
 
