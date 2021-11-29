@@ -10,6 +10,7 @@ plot the data distribution using Python
  
 # ANOVA & Regression - Ling
 linear regression graphs + multiple regression graphs
+
 -line graph
 --> analyse the Pearson coefficients, R-squared values etc., Kendall tau correlation coefficients - to show that there is a non-linear relationship between two variables
 
@@ -20,9 +21,12 @@ Perform clustering on all the variables by years & calculate Silhouette scores t
 
 # Violinplots & Complementary investigation
 ## Lydia (violinplots, clustering), Ling (regression)
-Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Isarel across 29 years), to ascertain whether Isarel is a ‘similar’ country or not
+Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Jordan across 29 years), to ascertain whether Jordan is a ‘similar’ country or not
+
 https://www.python-graph-gallery.com/54-grouped-violinplot
+
 x-axis: Year; y-axis: Total Energy Supply per capita
+
 x-axis: Year; y-axis: Total Electricity generation  
 
-repeat regression and clusering for the data on Isarel
+repeat regression and clusering for the data on Jordan
