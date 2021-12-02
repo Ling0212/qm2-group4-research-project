@@ -49,6 +49,6 @@ https://www.python-graph-gallery.com/54-grouped-violinplot
 
 x-axis: Year; y-axis: Total Energy Supply per capita
 
-x-axis: Year; y-axis: Total Electricity generation  
+x-axis: Year; y-axis: Total Electricity generation per capita
 
 repeat regression and clusering for the data on Jordan
