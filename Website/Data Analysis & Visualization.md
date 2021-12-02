@@ -31,6 +31,14 @@ As we have different units and distributions in the five variables, technical st
 Perform clustering on all the variables by years & calculate Silhouette scores to assess the clustering quality, i.e. how strongly data is clustered→ The clustering results with the optimal number of clusters (highest silhouette scores) will be ultimately presented, summarized and analyzed.→ to identify different clusters of years→ analyse the electricity consumption/energy supply per capita & social wellbeing relationship in relation to turbulent events that repeatedly happened in certain clustered years
 * present six clustering graphs
 
+![EGC_vs_GNI](https://user-images.githubusercontent.com/92082534/144406347-8700b560-c74f-4895-937d-f3af75c3823c.png)
+![EGC_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406362-2cdc467a-e2cc-4d80-be2e-b278cf840b1d.png)
+![EGC_vs_schooling](https://user-images.githubusercontent.com/92082534/144406373-27648a0a-ea01-4a8c-a30b-fba3984454cd.png)
+![TES_vs_GNI](https://user-images.githubusercontent.com/92082534/144406382-6cd7da64-2af6-463a-abd5-b4fa48076325.png)
+![TES_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406400-948995d2-a902-400d-82fc-41148cd81dac.png)
+![TES_vs_School](https://user-images.githubusercontent.com/92082534/144406408-db2b3d22-c902-492a-8e08-6c9ff3090f0a.png)
+
+
 # Violinplots & Complementary investigation
 ## Lydia (violinplots, clustering), Ling (regression)
 Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Jordan across 29 years), to ascertain whether Jordan is a ‘similar’ country or not
