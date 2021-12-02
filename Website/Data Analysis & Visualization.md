@@ -34,10 +34,11 @@ Perform clustering on all the variables by years & calculate Silhouette scores t
 ![EGC_vs_GNI](https://user-images.githubusercontent.com/92082534/144406347-8700b560-c74f-4895-937d-f3af75c3823c.png)
 ![EGC_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406362-2cdc467a-e2cc-4d80-be2e-b278cf840b1d.png)
 ![EGC_vs_schooling](https://user-images.githubusercontent.com/92082534/144406373-27648a0a-ea01-4a8c-a30b-fba3984454cd.png)
-![TES_vs_GNI](https://user-images.githubusercontent.com/92082534/144406382-6cd7da64-2af6-463a-abd5-b4fa48076325.png)
-![TES_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406400-948995d2-a902-400d-82fc-41148cd81dac.png)
-![TES_vs_School](https://user-images.githubusercontent.com/92082534/144406408-db2b3d22-c902-492a-8e08-6c9ff3090f0a.png)
-<img width="621" alt="Screen Shot 2021-12-02 at 10 45 22 am" src="https://user-images.githubusercontent.com/92082534/144407275-426c677d-b06b-4073-8b67-b97563dce69b.png">
+![TES_vs_Schooling](https://user-images.githubusercontent.com/92082534/144453938-b345085d-3e1f-4e91-a42b-7c13b2fbeb1f.png)
+![TES_vs_GNI](https://user-images.githubusercontent.com/92082534/144453943-60513484-eda9-4119-8659-7e8f9b9bcfe3.png)
+<img width="621" alt="Screen Shot 2021-12-02 at 3 39 10 pm" src="https://user-images.githubusercontent.com/92082534/144453947-c02e8609-961c-4b26-8945-36f5b27b983c.png">
+![TES_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144453948-008bed8e-93f0-4e34-b57e-176fb154f33b.png)
+
 
 
 # Violinplots & Complementary investigation
