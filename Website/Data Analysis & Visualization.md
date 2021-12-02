@@ -37,6 +37,7 @@ Perform clustering on all the variables by years & calculate Silhouette scores t
 ![TES_vs_GNI](https://user-images.githubusercontent.com/92082534/144406382-6cd7da64-2af6-463a-abd5-b4fa48076325.png)
 ![TES_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406400-948995d2-a902-400d-82fc-41148cd81dac.png)
 ![TES_vs_School](https://user-images.githubusercontent.com/92082534/144406408-db2b3d22-c902-492a-8e08-6c9ff3090f0a.png)
+<img width="621" alt="Screen Shot 2021-12-02 at 10 45 22 am" src="https://user-images.githubusercontent.com/92082534/144407275-426c677d-b06b-4073-8b67-b97563dce69b.png">
 
 
 # Violinplots & Complementary investigation
