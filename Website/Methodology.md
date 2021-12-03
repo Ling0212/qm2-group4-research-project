@@ -30,4 +30,7 @@ Lebanon total population, Jordan total population:: Total population is based on
 To obtain the data for total electricity generation per capita, we … --> show what software and Python libraries we used, i.e. how we performed data manipulation on the raw data - "Electricity generation by source" and "Lebanon total population"
 
 “describe the way your group applied a particular methodology: the software used, problems encountered, solutions found etc.”		
-
+ 
+ + Energy generation per capita
+ + Software used
+ + Problems Encountered and solutions found
