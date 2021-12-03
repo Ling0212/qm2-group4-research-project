@@ -6,7 +6,7 @@ While much literature has focused on classical economic analysis (Moore & Collin
 # Problem Definition
 Based on this literature review, to further corroborate or testify the existing narratives, a more quantitative approach to this subject is required, where lies our research, aiming to fill such a literature gap and to implement the knowledge base in this field. Our research question is, therefore, developed, that is - Is there any relationship between energy supply and social wellbeing (measured by economic performance and human development) in Lebanese society from 1990 to 2019 and how might any relationship be explained?
 
-Originally, we intended to carry out research on the past fifty years’ data, but later depending on the open data available online, the research timeframe is adjusted and narrowed down to the 29-years duration from 1990 to 2019. 
+Originally, we intended to carry out research on the past fifty years’ data, but later depending on the open data available online, the research timeframe is adjusted and narrowed down to the 30-years duration from 1990 to 2019. 
 
 # Our Aims/Motivations
 1. to further corroborate and testify the existing narratives, aiming to fill such a research gap & implement the knowledge base in this field
