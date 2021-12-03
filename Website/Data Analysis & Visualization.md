@@ -43,13 +43,6 @@ Perform clustering on all the variables by years & calculate Silhouette scores t
 
 # Complementary investigation
 ## Lydia (clustering), Ling (regression)
-Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Jordan across 29 years), to ascertain whether Jordan is a ‘similar’ country or not
-
-https://www.python-graph-gallery.com/54-grouped-violinplot
-
-x-axis: Year; y-axis: Total Energy Supply per capita
-
-x-axis: Year; y-axis: Total Electricity generation per capita
 
 repeat regression and clusering for the data on Jordan
 ![JordanEGC_School](https://user-images.githubusercontent.com/92082534/144684163-f5f4bf20-897b-43b9-b854-810dd25f8819.png)
