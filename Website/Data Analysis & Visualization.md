@@ -41,8 +41,8 @@ Perform clustering on all the variables by years & calculate Silhouette scores t
 
 
 
-# Violinplots & Complementary investigation
-## Lydia (violinplots, clustering), Ling (regression)
+# Complementary investigation
+## Lydia (clustering), Ling (regression)
 Draw two grouped violinplots to visualise the same variable by different countries (input data points for Lebanon and Jordan across 29 years), to ascertain whether Jordan is a ‘similar’ country or not
 
 https://www.python-graph-gallery.com/54-grouped-violinplot
