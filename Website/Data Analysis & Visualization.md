@@ -52,3 +52,15 @@ x-axis: Year; y-axis: Total Energy Supply per capita
 x-axis: Year; y-axis: Total Electricity generation per capita
 
 repeat regression and clusering for the data on Jordan
+<img width=![JordanEGC_School](https://user-images.githubusercontent.com/92082534/144684088-6067ca7d-0a5f-407a-87d2-69b21897d457.png)
+![JordanEGC_Life](https://user-images.githubusercontent.com/92082534/144684090-d429daa5-0d1a-4f8e-be1c-7553c9ca7e0a.png)
+![JordanEGC_GNI](https://user-images.githubusercontent.com/92082534/144684094-9d41dae4-fff6-494e-8489-fca29840a844.png)
+![JordanTES_vs_GNI](https://user-images.githubusercontent.com/92082534/144684095-0c553e43-d98e-4054-9e5e-400fe5a9f719.png)
+![JordanTES_vs_Life](https://user-images.githubusercontent.com/92082534/144684097-58ed57c8-8e19-475d-bbf0-ea02fbf1b963.png)
+"457" alt="jordan" src="https://user-images.githubusercontent.com/92082534/144684075-a360466e-4f9f-4c2b-acf6-ec643dc87225.png">
+![JordanTES_vs_Schooling](https://user-images.githubusercontent.com/92082534/144684101-ec26f47c-c9b1-4a36-b29c-4bb297a95a34.png)
+
+
+
+
+
