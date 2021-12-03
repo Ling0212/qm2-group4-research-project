@@ -61,7 +61,9 @@ repeat regression and clusering for the data on Jordan
 <img width="457" alt="jordan" src="https://user-images.githubusercontent.com/92082534/144684175-232d58ed-b0f3-4433-a266-263e154ac806.png">
 
 
-
-
-
+# Data analysis
++ Outcome of ANOVA and regression plots
++ Outcome of clustering graphs
++ Outcomes in relation to policy regulations
++ Outcomes in comparison to Jordan
 
