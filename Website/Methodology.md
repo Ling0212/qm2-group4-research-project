@@ -24,13 +24,13 @@ Lebanon total population, Jordan total population:: Total population is based on
 
 
 # Data manipulation
-
-*How do we manipulate and deal with some raw data?      
-
-To obtain the data for total electricity generation per capita, we … --> show what software and Python libraries we used, i.e. how we performed data manipulation on the raw data - "Electricity generation by source" and "Lebanon total population"
-
-“describe the way your group applied a particular methodology: the software used, problems encountered, solutions found etc.”		
  
  + Energy generation per capita
+To obtain the electricity generation per capita, we used the dataset 'Electricity Generation by Source' provided by the IEA. To derive the total yearly electricity generated from 1990-2019, we calculated the yearly amount of oil- and hydro-based electricity together. The resulting values are then divided by the population in Lebanon in the respective years. 
+
  + Software used
+Excel is used for data manipulation and the creation of tables such as the summary statistics. Matplotlib is used within Python for data plotting and visualisation, both Syder and Google Colab are used to write up and run the codes.
+
  + Problems Encountered and solutions found
+Initially we aimed to visualise the similarities in the energy sector between Jordan and Lebanon using violinplots. However, since the given data is not appropriate for the use of violinplots, we decided to validate the similarities of these two countries by comparing their GDP and HDI values instead.
+
