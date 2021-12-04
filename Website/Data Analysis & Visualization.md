@@ -16,12 +16,11 @@ The histograms are plotted using Python to show data distribution.
 <img width="340" alt="Capture d’écran 2021-11-29 à 3 07 09 PM" src="https://user-images.githubusercontent.com/93673467/143892369-cddc5266-5e11-4797-8e1e-c81cf51309eb.png">
 
  
-# ANOVA & Regression - Ling
-linear regression graphs + multiple regression graphs
+# Linear regression & Correlogram - Ling
+-multiple regression graphs
 
 <img width="564" alt="Capture d’écran 2021-12-03 à 11 50 48 AM" src="https://user-images.githubusercontent.com/93673467/144619556-1c82a9a1-da03-416c-b302-723e002a0849.png">
 
--line graph
 --> analyse the Pearson coefficients, R-squared values etc., Kendall tau correlation coefficients - to show that there is a non-linear relationship between two variables
 
 <img width="819" alt="Capture d’écran 2021-12-03 à 11 50 07 AM" src="https://user-images.githubusercontent.com/93673467/144619582-7d9b7e84-5e1d-4511-ad11-4193b5c2768f.png">
@@ -55,8 +54,5 @@ repeat regression and clusering for the data on Jordan
 
 
 # Data analysis
-+ Outcome of ANOVA and regression plots
-+ Outcome of clustering graphs
-+ Outcomes in relation to policy regulations
-+ Outcomes in comparison to Jordan
-
++ Outcome of linear regression plots & correlogram - Ling
++ Outcome of clustering graphs - Lydia
