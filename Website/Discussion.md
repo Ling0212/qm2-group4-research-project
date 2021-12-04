@@ -1,6 +1,6 @@
-# Highlight our important research findings 
-+ Outcomes in comparison to Jordan - Marie & Diane
-+ Outcomes in relation to policy regulations - Enrico
+# Highlight our important research findings - Enrico
++ Outcomes in comparison to Jordan
++ Outcomes in relation to policy regulations
 
 # Limitations - Enrico
 
