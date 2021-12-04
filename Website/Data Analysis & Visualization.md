@@ -5,7 +5,7 @@ To give a quick overview of all the data that we used, the summary statistics ta
 
 <img width="825" alt="Capture d’écran 2021-12-03 à 11 09 59 AM" src="https://user-images.githubusercontent.com/93673467/144619317-a19aa063-9bc1-46bd-8d37-a9aaf4ed7b07.png">
 
--analysis of outliers
+-analysis of outliers: Seen from this table above, there is one lower outlier in the data on total energy supply per capita. The minimum value of 29.2 TJ (the data point in 1990 - just at the end of Lebanese civil war) is lower than 34.6 TJ, the lower bound of tukey fence. We think, however, it is a true data point that should be included in our data analysis and visualisation.
 
 The histograms are plotted using Python to show data distribution.
 
