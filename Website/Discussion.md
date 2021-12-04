@@ -1,6 +1,8 @@
 # Highlight our important research findings 
++ Outcomes in relation to policy regulations - Enrico
++ Outcomes in comparison to Jordan - Marie & Diane
 
-# Limitations
+# Limitations - Enrico
 
 “Reflection on context
 Essential elements: We expect to see some discussion of collection methodology, controversy and/or quality of the data.
