@@ -11,10 +11,11 @@ X-axis: Standardised data (min-max rescaled) of electricity generation per capit
 
 Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
 
-2. for each clustering graph, use ONE TABLE to clearly summarise: the number of data points in each cluster, max, min, mean for each variable in each cluster - Lydia and Marie
+2. for each clustering graph, use ONE TABLE to clearly summarise: the number of data points in each cluster, max, min, mean for each variable in each cluster - Lydia works on 3 graphs & Marie works on 3 graphs
+
 —> then combine clustering findings from all the 6 clustering graphs on Lebanon to analyse the relationship between TES per capita/EG per capita and social wellbeing
 
-* repeat "2" for Jordan - Diane and Enrico
+* repeat "2" for Jordan - Diane works on 3 graphs and Enrico works on 3 graphs
 
 ![EGC_vs_GNI](https://user-images.githubusercontent.com/92082534/144406347-8700b560-c74f-4895-937d-f3af75c3823c.png)
 ![EGC_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406362-2cdc467a-e2cc-4d80-be2e-b278cf840b1d.png)
