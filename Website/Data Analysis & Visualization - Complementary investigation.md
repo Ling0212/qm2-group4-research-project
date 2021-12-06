@@ -18,6 +18,11 @@ Correlogram for Jordan's data
 >> visualisation
 <img width="543" alt="Capture d’écran 2021-12-06 à 10 36 35 PM" src="https://user-images.githubusercontent.com/93673467/144934399-878fa5af-cf49-4d9d-8e50-fcf522713972.png">
 
+Spearman's & Pearson's coefficients for Jordan
+
+<img width="857" alt="Capture d’écran 2021-12-06 à 11 04 03 PM" src="https://user-images.githubusercontent.com/93673467/144937047-2c3bc7ec-8528-4d62-96e5-44e4e245da24.png">
+
+
 # Data analysis
 + analyse outcomes of linear regression plots & correlogram for Lebanon - Ling
 + analyse outcomes of linear regression plots & correlogram for Jordan - Marie
