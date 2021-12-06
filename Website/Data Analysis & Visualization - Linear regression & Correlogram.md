@@ -1,11 +1,10 @@
-# Linear regression & Correlogram - Ling
-correlograms: 
+# Linear regression & Correlogram - Marie, Ling
+Correlogram of Lebanon's datasets
 >> lines of code:
 
 <img width="630" alt="Capture d’écran 2021-12-06 à 2 58 07 PM" src="https://user-images.githubusercontent.com/93673467/144868626-224e1e4e-d781-4d9c-ae65-2ddfdc9bb77d.png">
 
-
-Correlogram of Lebanon's datasets
+>> visualisation
 
 <img width="548" alt="Capture d’écran 2021-12-06 à 2 58 15 PM" src="https://user-images.githubusercontent.com/93673467/144868735-2bf927c3-1a04-4c19-9a0f-810bdeeb9bb4.png">
 
