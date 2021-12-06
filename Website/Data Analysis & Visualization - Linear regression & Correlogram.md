@@ -2,11 +2,12 @@
 correlograms: 
 >> lines of code:
 
-<img width="810" alt="Capture d’écran 2021-12-06 à 11 45 55 AM" src="https://user-images.githubusercontent.com/93673467/144866595-96c8636c-73bd-43cb-bf33-f9d14f314a93.png">
+<img width="630" alt="Capture d’écran 2021-12-06 à 2 58 07 PM" src="https://user-images.githubusercontent.com/93673467/144868626-224e1e4e-d781-4d9c-ae65-2ddfdc9bb77d.png">
+
 
 1st correlogram: Lebanon data
 
-<img width="693" alt="Capture d’écran 2021-12-06 à 11 45 35 AM" src="https://user-images.githubusercontent.com/93673467/144866537-8f4b9586-624e-455e-9df1-08e13bd81dd1.png">
+<img width="548" alt="Capture d’écran 2021-12-06 à 2 58 15 PM" src="https://user-images.githubusercontent.com/93673467/144868735-2bf927c3-1a04-4c19-9a0f-810bdeeb9bb4.png">
 
 
 Regression graphs
