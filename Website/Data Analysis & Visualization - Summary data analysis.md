@@ -3,10 +3,13 @@ After the problem is clearly defined, the summary of all datasets was carried ou
 
 To give a quick overview of all the data that we used, the summary statistics table (Table 1) is presented with descriptive summary statistics for all datasets used in our research.
 
-<img width="809" alt="Capture d’écran 2021-12-06 à 3 04 28 PM" src="https://user-images.githubusercontent.com/93673467/144869756-e4d8785f-4fda-4343-a833-f5842a494607.png">
+<img width="810" alt="Capture d’écran 2021-12-06 à 8 01 09 PM" src="https://user-images.githubusercontent.com/93673467/144914113-c905c647-5ca4-4eb6-a3f3-30fdeca2ea59.png">
 
 
 1. in the “Summary data analysis” section, add another summary statistics table for Jordan data (we could give some space for complementary investigation here on this separate web page, otherwise it might be quite blank anyway) - Marie
+
+<img width="810" alt="Capture d’écran 2021-12-06 à 8 01 19 PM" src="https://user-images.githubusercontent.com/93673467/144914163-41dc0c4e-bdb8-431c-a2cd-7b3b06f1a8ce.png">
+
 
 After you finish this, could you please send me the excel file with two summary statistics tables? I’d like to adjust the table design. Thank you!
 
