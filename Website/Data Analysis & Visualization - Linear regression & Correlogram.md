@@ -17,4 +17,6 @@ Regression graphs
 
 -analyse the p-values, R-squared values, Pearson coefficients, Kendall tau correlation coefficients - to show that there is a non-linear relationship between two variables
 
-<img width="819" alt="Capture d’écran 2021-12-03 à 11 50 07 AM" src="https://user-images.githubusercontent.com/93673467/144619582-7d9b7e84-5e1d-4511-ad11-4193b5c2768f.png">
+>> Spearman's & Pearson's coefficients for Lebanon
+
+<img width="806" alt="Capture d’écran 2021-12-06 à 11 03 53 PM" src="https://user-images.githubusercontent.com/93673467/144936900-688424db-457a-4290-8577-3df71eca0fcb.png">
