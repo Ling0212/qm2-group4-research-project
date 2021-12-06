@@ -13,7 +13,6 @@ To give a quick overview of all the data that we used, the summary statistics ta
 
 After you finish this, could you please send me the excel file with two summary statistics tables? I’d like to adjust the table design. Thank you!
 
-2. for the purpose of clustering, replace the histograms by box plots to show in a clearer way if the distribution of all variables is roughly symmetrical or not (so make five box plots for Lebanon, five box plots for Jordan) - Marie
 
 please do this on Python and put the lines of code as a link at the bottom of this page, see how this sample did it https://jingxue19.wixsite.com/team9/methodology
 
