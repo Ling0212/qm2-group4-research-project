@@ -3,13 +3,13 @@
 
 Clusering for the data on Jordan
 
-![JordanEGC_School](https://user-images.githubusercontent.com/92082534/144684163-f5f4bf20-897b-43b9-b854-810dd25f8819.png)
-![JordanEGC_Life](https://user-images.githubusercontent.com/92082534/144684165-6fd03fae-8a2e-482c-931f-f1047867857e.png)
-![JordanEGC_GNI](https://user-images.githubusercontent.com/92082534/144684166-835177e5-9c34-4546-8f97-21f218c27de1.png)
-![JordanTES_vs_GNI](https://user-images.githubusercontent.com/92082534/144684169-2bfd857b-bf5a-4252-83bd-7156e5414b46.png)
-![JordanTES_vs_Life](https://user-images.githubusercontent.com/92082534/144684172-0cc0adf5-a4dd-4c0d-a0e6-67650c67bf29.png)
-![JordanTES_vs_Schooling](https://user-images.githubusercontent.com/92082534/144684174-380738a6-814c-4d14-9baa-f02f3f85adf7.png)
-<img width="450" alt="jordan" src="https://user-images.githubusercontent.com/92082534/144684175-232d58ed-b0f3-4433-a266-263e154ac806.png">
+![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145262486-f5627c09-4e34-4cb7-8f43-c97c62a90fff.png)
+![EGC vs life](https://user-images.githubusercontent.com/92082534/145262489-e0b8196d-b32e-4732-9a00-45c1910f70a7.png)
+![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145262495-c6cdc0af-cb8a-4e12-b721-61d16395a04e.png)
+<img width="452" alt="Screen Shot 2021-12-08 at 6 17 22 pm" src="https://user-images.githubusercontent.com/92082534/145262497-8671d5e1-26bc-461c-966c-dc821f7fcbe9.png">
+![tes vs GNI](https://user-images.githubusercontent.com/92082534/145262501-55af67fe-e7fd-426f-8b9b-eecc2fb15b74.png)
+![tes vs life](https://user-images.githubusercontent.com/92082534/145262505-90fcd721-3233-4a4f-a18d-36ce328397df.png)
+![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262506-c34787c3-bbbc-4d57-bf88-e7980def459e.png)
 
 Correlogram for Jordan's data
 >> lines of code
