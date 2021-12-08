@@ -18,15 +18,16 @@ Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
 * repeat "2" for Jordan - Diane works on 3 graphs and Enrico works on 3 graphs
 
 ## Lebanon
+![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281836-82c7f29d-9b5a-4779-a08e-523b9bbe0e0f.png)
+![EGC vs life](https://user-images.githubusercontent.com/92082534/145281839-d98b636b-eed1-4ce9-ae31-4644cc0d79b7.png)
+![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145281845-d27b5125-014a-4a7d-a782-bac49f6c7d72.png)
+<img width="620" alt="Screen Shot 2021-12-08 at 6 17 07 pm" src="https://user-images.githubusercontent.com/92082534/145281848-33e8e229-c775-437d-9289-4ca0be93e301.png">
+![TES vs GNI](https://user-images.githubusercontent.com/92082534/145281851-fe092dc7-2f09-4510-9061-5dfa129f00dd.png)
+![tes vs life](https://user-images.githubusercontent.com/92082534/145281853-faae8564-d854-4be2-b544-ff633c770b20.png)
+![tes vs schooling](https://user-images.githubusercontent.com/92082534/145281857-98160c7a-2f13-40ce-ae30-06874303b875.png)
 
 
-<img width="620" alt="Screen Shot 2021-12-08 at 6 17 07 pm" src="https://user-images.githubusercontent.com/92082534/145262355-5a70ffc5-dd37-4c63-a8f4-1f3d391b9610.png">
-![TES vs GNI](https://user-images.githubusercontent.com/92082534/145262357-bcb2a0bb-4d9d-4c86-ae28-e1260a59b110.png)
-![tes vs life](https://user-images.githubusercontent.com/92082534/145262359-93a7cbc9-390f-45d3-8ea9-20453fb71ba1.png)
-![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262367-28f2d7d6-f661-4261-849e-13d8de5bfee0.png)
-![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281632-606cca7c-28a5-4183-a27d-c6ea0e899b04.png)
-![EGC vs life](https://user-images.githubusercontent.com/92082534/145281664-26765e62-1509-4952-b429-649a8d989f3a.png)
-![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145281676-54b97cd3-e8f1-4cfb-96b9-bfe54c0fe5ad.png)
+
 
 ## K-MEANS CLUSTERING IN PYTHON
 
