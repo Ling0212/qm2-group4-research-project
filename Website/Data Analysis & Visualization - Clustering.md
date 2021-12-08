@@ -17,13 +17,26 @@ Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
 
 * repeat "2" for Jordan - Diane works on 3 graphs and Enrico works on 3 graphs
 
-![EGC_vs_GNI](https://user-images.githubusercontent.com/92082534/144406347-8700b560-c74f-4895-937d-f3af75c3823c.png)
-![EGC_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144406362-2cdc467a-e2cc-4d80-be2e-b278cf840b1d.png)
-![EGC_vs_schooling](https://user-images.githubusercontent.com/92082534/144406373-27648a0a-ea01-4a8c-a30b-fba3984454cd.png)
-![TES_vs_Schooling](https://user-images.githubusercontent.com/92082534/144453938-b345085d-3e1f-4e91-a42b-7c13b2fbeb1f.png)
-![TES_vs_GNI](https://user-images.githubusercontent.com/92082534/144453943-60513484-eda9-4119-8659-7e8f9b9bcfe3.png)
-<img width="621" alt="Screen Shot 2021-12-02 at 3 39 10 pm" src="https://user-images.githubusercontent.com/92082534/144453947-c02e8609-961c-4b26-8945-36f5b27b983c.png">
-![TES_vs_LifeExpectancy](https://user-images.githubusercontent.com/92082534/144453948-008bed8e-93f0-4e34-b57e-176fb154f33b.png)
+## Lebanon
+
+![EGC vs GNi](https://user-images.githubusercontent.com/92082534/145262344-fa215b44-2ae6-478c-b173-482c99e738fb.png)
+![EGC vs life](https://user-images.githubusercontent.com/92082534/145262348-3a750da9-9a2a-4100-82a2-adbebc9bd051.png)
+![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145262350-f9761e42-dc02-4467-b760-83f2f55e01ca.png)
+<img width="620" alt="Screen Shot 2021-12-08 at 6 17 07 pm" src="https://user-images.githubusercontent.com/92082534/145262355-5a70ffc5-dd37-4c63-a8f4-1f3d391b9610.png">
+![TES vs GNI](https://user-images.githubusercontent.com/92082534/145262357-bcb2a0bb-4d9d-4c86-ae28-e1260a59b110.png)
+![tes vs life](https://user-images.githubusercontent.com/92082534/145262359-93a7cbc9-390f-45d3-8ea9-20453fb71ba1.png)
+![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262367-28f2d7d6-f661-4261-849e-13d8de5bfee0.png)
+
+## Jordan
+
+![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145262486-f5627c09-4e34-4cb7-8f43-c97c62a90fff.png)
+![EGC vs life](https://user-images.githubusercontent.com/92082534/145262489-e0b8196d-b32e-4732-9a00-45c1910f70a7.png)
+![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145262495-c6cdc0af-cb8a-4e12-b721-61d16395a04e.png)
+<img width="452" alt="Screen Shot 2021-12-08 at 6 17 22 pm" src="https://user-images.githubusercontent.com/92082534/145262497-8671d5e1-26bc-461c-966c-dc821f7fcbe9.png">
+![tes vs GNI](https://user-images.githubusercontent.com/92082534/145262501-55af67fe-e7fd-426f-8b9b-eecc2fb15b74.png)
+![tes vs life](https://user-images.githubusercontent.com/92082534/145262505-90fcd721-3233-4a4f-a18d-36ce328397df.png)
+![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262506-c34787c3-bbbc-4d57-bf88-e7980def459e.png)
+
 
 
 
