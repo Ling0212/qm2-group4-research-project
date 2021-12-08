@@ -19,15 +19,14 @@ Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
 
 ## Lebanon
 
-![EGC vs GNi](https://user-images.githubusercontent.com/92082534/145262344-fa215b44-2ae6-478c-b173-482c99e738fb.png)
-![EGC vs life](https://user-images.githubusercontent.com/92082534/145262348-3a750da9-9a2a-4100-82a2-adbebc9bd051.png)
-![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145262350-f9761e42-dc02-4467-b760-83f2f55e01ca.png)
+
 <img width="620" alt="Screen Shot 2021-12-08 at 6 17 07 pm" src="https://user-images.githubusercontent.com/92082534/145262355-5a70ffc5-dd37-4c63-a8f4-1f3d391b9610.png">
 ![TES vs GNI](https://user-images.githubusercontent.com/92082534/145262357-bcb2a0bb-4d9d-4c86-ae28-e1260a59b110.png)
 ![tes vs life](https://user-images.githubusercontent.com/92082534/145262359-93a7cbc9-390f-45d3-8ea9-20453fb71ba1.png)
 ![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262367-28f2d7d6-f661-4261-849e-13d8de5bfee0.png)
-
-
+![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281632-606cca7c-28a5-4183-a27d-c6ea0e899b04.png)
+![EGC vs life](https://user-images.githubusercontent.com/92082534/145281664-26765e62-1509-4952-b429-649a8d989f3a.png)
+![EGC vs schooling](https://user-images.githubusercontent.com/92082534/145281676-54b97cd3-e8f1-4cfb-96b9-bfe54c0fe5ad.png)
 
 ## K-MEANS CLUSTERING IN PYTHON
 
