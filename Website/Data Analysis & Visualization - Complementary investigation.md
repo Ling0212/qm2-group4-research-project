@@ -23,6 +23,15 @@ Spearman's & Pearson's coefficients for Jordan
 
 <img width="857" alt="Capture d’écran 2021-12-06 à 11 04 03 PM" src="https://user-images.githubusercontent.com/93673467/144937047-2c3bc7ec-8528-4d62-96e5-44e4e245da24.png">
 
+Linear Regression Analysis
+
+<img width="470" alt="Capture d’écran 2021-12-09 à 5 19 51 PM" src="https://user-images.githubusercontent.com/93673467/145444793-5fea61f9-fa43-44e9-bdc3-da414d638623.png">
+
+<img width="470" alt="Capture d’écran 2021-12-09 à 5 21 20 PM" src="https://user-images.githubusercontent.com/93673467/145445064-ccf1698c-8525-4fa6-8107-af70592412bf.png">
+
+<img width="470" alt="Capture d’écran 2021-12-09 à 5 21 30 PM" src="https://user-images.githubusercontent.com/93673467/145445085-55fa2120-99e9-4ced-9418-5c362d82f164.png">
+
+
 
 # Data analysis
 + analyse outcomes of linear regression plots & correlogram for Lebanon - Marie
