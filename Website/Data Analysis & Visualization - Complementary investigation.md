@@ -1,6 +1,7 @@
 # Complementary investigation
-## Ling (linear regression & correlogram), Lydia (clustering)
-Clusering for the data on Jordan
+## Marie (linear regression & correlogram), Lydia (clustering)
+Clustering for the data on Jordan
+
 ![ECG vs schooling](https://user-images.githubusercontent.com/92082534/145281410-b73e60db-4597-4b83-a8fa-3e2a7eb78276.png)
 ![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281413-5e6e5836-8c33-4a47-85c7-b85dcefde245.png)
 ![EGC vs life](https://user-images.githubusercontent.com/92082534/145281416-820ac07d-4cfb-4f65-8a4b-d91d2c7a3bdc.png)
