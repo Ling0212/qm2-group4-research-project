@@ -23,7 +23,7 @@ Spearman's & Pearson's coefficients for Jordan
 
 
 # Data analysis
-+ analyse outcomes of linear regression plots & correlogram for Lebanon - Ling
++ analyse outcomes of linear regression plots & correlogram for Lebanon - Marie
 + analyse outcomes of linear regression plots & correlogram for Jordan - Marie
 + analyse/summarise outcomes of clustering graphs for Lebanon, using tables - Lydia (reponsible for the first 3 graphs), Marie (reponsible for the other 3 graphs)
 + analyse/summarise outcomes of clustering graphs for Jordan, using tables - Diane (reponsible for the first 3 graphs), Enrico (reponsible for the other 3 graphs)
