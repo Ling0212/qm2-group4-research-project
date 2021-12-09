@@ -11,11 +11,18 @@ Correlogram of Lebanon's datasets
 
 
 
-Regression graphs
+Linear Regression Analysis
 
-<img width="564" alt="Capture d’écran 2021-12-03 à 11 50 48 AM" src="https://user-images.githubusercontent.com/93673467/144619556-1c82a9a1-da03-416c-b302-723e002a0849.png">
+<img width="620" alt="Capture d’écran 2021-12-03 à 11 50 48 AM" src="https://user-images.githubusercontent.com/93673467/144619556-1c82a9a1-da03-416c-b302-723e002a0849.png">
 
 >> these are the most relevant applications of linear regression analysis on the Lebanon's datasets (we can do the others if we clearly want to analyse R-squared + p- values, might not be necessary as we have the correlograms)
+
+<img width="620" alt="Capture d’écran 2021-12-09 à 5 24 11 PM" src="https://user-images.githubusercontent.com/93673467/145445599-83b3ed89-0af3-416a-9c5a-fb94f1cfcb52.png">
+
+<img width="620" alt="Capture d’écran 2021-12-09 à 5 24 29 PM" src="https://user-images.githubusercontent.com/93673467/145445624-dd56d4e1-12cf-4917-ab0d-8e15b27f7d03.png">
+
+<img width="620" alt="Capture d’écran 2021-12-09 à 5 24 45 PM" src="https://user-images.githubusercontent.com/93673467/145445717-5ac5091b-f33e-4a36-b324-99bbfbf4f3a3.png">
+
 
 -analyse the p-values, R-squared values, Pearson coefficients, Kendall tau correlation coefficients - to show that there is a non-linear relationship between two variables
 
