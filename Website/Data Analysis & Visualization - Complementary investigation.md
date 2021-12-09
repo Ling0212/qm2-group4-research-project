@@ -12,10 +12,12 @@ Clustering for the data on Jordan
 
 Correlogram for Jordan's data
 >> lines of code
-<img width="620" alt="Capture d’écran 2021-12-06 à 10 36 28 PM" src="https://user-images.githubusercontent.com/93673467/144934381-e31dbd8b-6dec-4d2b-815e-541e281c5371.png">
+<img width="620" alt="Capture d’écran 2021-12-09 à 4 29 44 PM" src="https://user-images.githubusercontent.com/93673467/145436543-87e2fba6-0ef3-4d3d-a08f-4b25db372135.png">
+
 
 >> visualisation
-<img width="543" alt="Capture d’écran 2021-12-06 à 10 36 35 PM" src="https://user-images.githubusercontent.com/93673467/144934399-878fa5af-cf49-4d9d-8e50-fcf522713972.png">
+<img width="746" alt="Capture d’écran 2021-12-09 à 4 29 55 PM" src="https://user-images.githubusercontent.com/93673467/145436584-6199a17f-7f35-4687-875a-3e4ccbaa091a.png">
+
 
 Spearman's & Pearson's coefficients for Jordan
 
