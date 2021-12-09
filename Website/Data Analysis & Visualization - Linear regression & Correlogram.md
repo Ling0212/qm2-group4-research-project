@@ -1,12 +1,14 @@
-# Linear regression & Correlogram - Marie, Ling
+# Linear regression & Correlogram - Marie
 Correlogram of Lebanon's datasets
 >> lines of code:
 
-<img width="630" alt="Capture d’écran 2021-12-06 à 2 58 07 PM" src="https://user-images.githubusercontent.com/93673467/144868626-224e1e4e-d781-4d9c-ae65-2ddfdc9bb77d.png">
+<img width="620" alt="Capture d’écran 2021-12-09 à 4 31 54 PM" src="https://user-images.githubusercontent.com/93673467/145436979-17c19500-4418-47ca-85ae-40cb85caaec4.png">
+
 
 >> visualisation
 
-<img width="548" alt="Capture d’écran 2021-12-06 à 2 58 15 PM" src="https://user-images.githubusercontent.com/93673467/144868735-2bf927c3-1a04-4c19-9a0f-810bdeeb9bb4.png">
+<img width="723" alt="Capture d’écran 2021-12-09 à 4 32 10 PM" src="https://user-images.githubusercontent.com/93673467/145437014-73f421a8-eab2-461b-9859-bc64f8681100.png">
+
 
 
 Regression graphs
