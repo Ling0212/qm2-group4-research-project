@@ -29,4 +29,4 @@ We are curious to see if any identified relationship is unique to Lebanon only. 
 # Hypothesis
 Here is what we expect to find during this project:
 1. There is a correlation between the shortage of energy supply and human development in Lebanon from 1990 to 2019.
-2. The identified relationship for Lebanon is similar to that of Jordan.
+2. The identified relationship on the data of Lebanon is similar to that of Jordan. 
