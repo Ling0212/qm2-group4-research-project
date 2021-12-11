@@ -1,4 +1,4 @@
-# Linear regression & Correlogram
+# Correlogram & Linear regression
 
 As we have a multivariate dataset, a correlogram (or a correlation matrix) is used to analyse the relationship between each pair of numerical variables. It allows us to visualize the relationships of the whole dataset in a glimpse and to elegantly present them. Within the matrix, on each sub-scatterplot, linear regression is performed on the data. The diagonal also displays the distribution (evolution) of each variable over the past 30 years using a density plot.
 
@@ -16,6 +16,7 @@ Table: Summary of regression statistics & correlation coefficients
 analyse the Pearson correlation coefficients, Spearman's correlation coefficients, Kendall tau correlation coefficients (to explore if there is a significant relationship between the two variables) + p-values, R-squared values
 + Subplot D and Subplot E are the most relevant applications of linear regression analysis on the Lebanon's datasets
 
+...
 
 
 
