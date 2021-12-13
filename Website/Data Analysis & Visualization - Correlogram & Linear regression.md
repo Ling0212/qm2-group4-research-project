@@ -11,6 +11,11 @@ Also, we calculated the regression statistics and correlation coefficients for s
 Table: Summary of regression statistics & correlation coefficients
 <img width="735" alt="Screen Shot 2021-12-11 at 12 48 41 AM" src="https://user-images.githubusercontent.com/93497630/145658141-6b38691c-6bdc-42f3-809f-ae492503c801.png">
 
+>> Kendall Tau 
+
+<img width="900" alt="Capture d’écran 2021-12-13 à 6 55 36 PM" src="https://user-images.githubusercontent.com/93673467/145876968-b0aa5e8a-4057-42e8-88a4-3618eb4c396f.png">
+
+
 ## Linear regression analysis
 
 analyse the Pearson correlation coefficients, Spearman's correlation coefficients, Kendall tau correlation coefficients (to explore if there is a significant relationship between the two variables) + p-values, R-squared values
@@ -25,9 +30,14 @@ analyse the Pearson correlation coefficients, Spearman's correlation coefficient
 ## [put at the bottom of the webpage]
 The code used to plot the correlogram can he found here. (give a link to the GitHub page with the lines of code on it)
 
+<img width="620" alt="Capture d’écran 2021-12-09 à 4 31 54 PM" src="https://user-images.githubusercontent.com/93673467/145436979-17c19500-4418-47ca-85ae-40cb85caaec4.png">
+
 The code used to calculate the regression statistics and the correlation coefficients can be found here. (give a link to the GitHub page with the lines of code on it)
 
-<img width="620" alt="Capture d’écran 2021-12-09 à 4 31 54 PM" src="https://user-images.githubusercontent.com/93673467/145436979-17c19500-4418-47ca-85ae-40cb85caaec4.png">
+The code used to calculate the Kendall tau 
+
+<img width="760" alt="Capture d’écran 2021-12-13 à 7 36 53 PM" src="https://user-images.githubusercontent.com/93673467/145877331-7f126a70-2dfd-421a-a39c-522527fe3e38.png">
+
 
 
 
