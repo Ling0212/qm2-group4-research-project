@@ -23,6 +23,11 @@ Spearman's & Pearson's coefficients for Jordan
 
 <img width="857" alt="Capture d’écran 2021-12-06 à 11 04 03 PM" src="https://user-images.githubusercontent.com/93673467/144937047-2c3bc7ec-8528-4d62-96e5-44e4e245da24.png">
 
+Kendall Tau
+
+<img width="857" alt="Capture d’écran 2021-12-13 à 7 35 55 PM" src="https://user-images.githubusercontent.com/93673467/145877681-51429811-cc81-40a8-ae91-68fd5dbae2e1.png">
+
+
 Linear Regression Analysis
 
 <img width="470" alt="Capture d’écran 2021-12-09 à 5 19 51 PM" src="https://user-images.githubusercontent.com/93673467/145444793-5fea61f9-fa43-44e9-bdc3-da414d638623.png">
