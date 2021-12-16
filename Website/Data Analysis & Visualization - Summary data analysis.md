@@ -11,4 +11,4 @@ After clearly defining the problem and collecting data for the variables of rese
 
 Although these data values are lower or higher outliers (i.e. lower than the corresponding low outlier limits or higher than the corresponding high outlier limit), they should and will be included in the following analysis. There is no valid reason to remove them because they are true data points with real-world meanings constituting an important part of the data pattern.
 
-The code we use to calculate the descriptive summary statistics can be found _here_. 
+The code used to calculate the descriptive summary statistics can be found _here_. 
