@@ -15,7 +15,7 @@ Table: Summary of regression statistics & correlation coefficients
 
  
 
-## Linear regression analysis
+## Correlation & linear regression analysis
 
 analyse the Pearson correlation coefficients, Kendall tau correlation coefficients (to explore if there is a significant relationship between the two variables) + p-values, R-squared values
 + Subplot D and Subplot E are the most relevant applications of linear regression analysis on the Lebanon's datasets
@@ -32,7 +32,7 @@ The code used to plot the correlogram can he found here. (give a link to the Git
 
 <img width="620" alt="Capture d’écran 2021-12-09 à 4 31 54 PM" src="https://user-images.githubusercontent.com/93673467/145436979-17c19500-4418-47ca-85ae-40cb85caaec4.png">
 
-The code used to calculate the regression statistics and the correlation coefficients can be found here. (give a link to the GitHub page with the lines of code on it)
+The code used to calculate the correlation coefficients and regression statistics can be found here. (give a link to the GitHub page with the lines of code on it)
 
 The code used to calculate the Kendall tau 
 
