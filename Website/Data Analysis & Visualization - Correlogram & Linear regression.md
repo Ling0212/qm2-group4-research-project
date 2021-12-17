@@ -1,12 +1,14 @@
 ## Correlogram
 
-As we have a multivariate dataset, a correlogram (or a correlation matrix) is used to analyse the relationship between each pair of numerical variables. It allows us to visualize the relationships of the whole dataset in a glimpse and to elegantly present them. Within the matrix, in each sub-scatterplot, a linear regression model is performed on the data. The diagonal also displays the distribution (evolution) of each variable over the past 30 years using a density plot.
+As we have a multivariate dataset, a correlogram (or a correlation matrix) is used to analyse the relationship between each pair of numerical variables. It allows us to visualize the relationships of the whole dataset in a glimpse and to elegantly present them. Within the matrix, for each sub-scatterplot, a linear regression model is performed on the data for the purpose of investigating the strength of linear association between the two variables where there is any linear relationship. The diagonal also displays the distribution (evolution) of each variable over the past 30 years using a density plot.
 
+To achieve a concrete and precise understanding of the results of correlation and regression, we calculated the correlation coefficients and regression statistics. Seen from the sub-scatterplots: the data on both Subplot D and Subplot E appear to be homoscedastic (points lie equally on both sides of the line of best fit), showing a linear relationship (Magiya, 2019); while for the rest of the sub-scatterplots, no clear pattern can be directly observed from the plots. Therefore, we incorporate both parametric (Pearson) and non-parametric coefficients (Kendall tau) into analysis. We chose to use Kendall tau coefficients rather than Spearman’s as our sample size is relatively small (Magiya, 2019). Kendall’s Tau coefficient of correlation is usually smaller values than Spearman coefficients….
+ 
+Pearson coefficients are used to measure linear relationships, while Kendall tau coefficients are used to measure monotonic relationships ( ).
+ 
 <img width="723" alt="Correlogram (Lebanon)" src="https://user-images.githubusercontent.com/93497630/145657733-35ad0fe8-ed5f-4223-b79d-fb009b6de607.png">
 
 *Correlogram showing the whole dataset on Lebanon with linear regression model performed on each subplot*
-
-Also, we calculated the regression statistics and correlation coefficients for subplot A-F on Python. The results are summarised in the table below.
 
 Table: Summary of regression statistics & correlation coefficients
 <img width="735" alt="Screen Shot 2021-12-11 at 12 48 41 AM" src="https://user-images.githubusercontent.com/93497630/145658141-6b38691c-6bdc-42f3-809f-ae492503c801.png">
@@ -18,7 +20,7 @@ Table: Summary of regression statistics & correlation coefficients
 
 ## Linear regression analysis
 
-analyse the Pearson correlation coefficients, Spearman's correlation coefficients, Kendall tau correlation coefficients (to explore if there is a significant relationship between the two variables) + p-values, R-squared values
+analyse the Pearson correlation coefficients, Kendall tau correlation coefficients (to explore if there is a significant relationship between the two variables) + p-values, R-squared values
 + Subplot D and Subplot E are the most relevant applications of linear regression analysis on the Lebanon's datasets
 
 ...
