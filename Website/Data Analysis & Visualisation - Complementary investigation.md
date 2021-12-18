@@ -4,7 +4,7 @@ Here, on the data collected for Jordan, we conduct the same quantitative techniq
 
 <img width="746" alt="correlogram (Jordan)" src="https://user-images.githubusercontent.com/93497630/146651216-279d3c69-846b-40d5-9564-86edbdd0efad.png">
 
-*Correlogram showing the whole dataset on Jordan with linear regression model performed on each subplot*
+*Correlogram showing Jordan's data with linear regression model performed on each subplot*
 
 Table: Summary of correlation coefficients and regression statistics  
 <img width="1051" alt="Screen Shot 2021-12-18 at 6 24 09 PM" src="https://user-images.githubusercontent.com/93497630/146652030-d2409f81-22f9-47fa-bb60-a0938587a857.png">
