@@ -1,4 +1,5 @@
 As we have a multivariate dataset, a correlogram (or a correlation matrix) is used to analyse the relationship between each pair of numerical variables. It allows us to visualise the relationships of the whole dataset in a glimpse and to elegantly present them. Within the matrix, for each sub-scatterplot, a linear regression model is performed on the data for the purpose of investigating the strength of linear association between the two variables where there is any linear relationship. The diagonal also displays the distribution (evolution) of each variable over the past 30 years using a density plot.
+
 <img width="723" alt="Correlogram (Lebanon)" src="https://user-images.githubusercontent.com/93497630/145657733-35ad0fe8-ed5f-4223-b79d-fb009b6de607.png">
 
 *Correlogram showing the whole dataset on Lebanon with linear regression model performed on each subplot*
