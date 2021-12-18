@@ -13,14 +13,29 @@ Table: Summary of correlation coefficients and regression statistics
 
 
 # Clustering graphs & Analysis
+![TES   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656234-21d0724c-191b-4b8c-bb05-4d6d2371fd78.png)
 
-![ECG vs schooling](https://user-images.githubusercontent.com/92082534/145281410-b73e60db-4597-4b83-a8fa-3e2a7eb78276.png)
-![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281413-5e6e5836-8c33-4a47-85c7-b85dcefde245.png)
-![EGC vs life](https://user-images.githubusercontent.com/92082534/145281416-820ac07d-4cfb-4f65-8a4b-d91d2c7a3bdc.png)
-<img width="452" alt="Screen Shot 2021-12-08 at 6 17 22 pm" src="https://user-images.githubusercontent.com/92082534/145262497-8671d5e1-26bc-461c-966c-dc821f7fcbe9.png">
-![tes vs GNI](https://user-images.githubusercontent.com/92082534/145262501-55af67fe-e7fd-426f-8b9b-eecc2fb15b74.png)
-![tes vs life](https://user-images.githubusercontent.com/92082534/145262505-90fcd721-3233-4a4f-a18d-36ce328397df.png)
-![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262506-c34787c3-bbbc-4d57-bf88-e7980def459e.png)
+*Figure 1: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and GNI per capita – Coloured by Cluster*
+
+![TES   life (Jordan)](https://user-images.githubusercontent.com/93497630/146656237-b63c07d4-099a-495d-92d0-5042ef171ecf.png)
+
+*Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
+
+![TES   school (Jordan)](https://user-images.githubusercontent.com/93497630/146656239-1c5baa56-0606-45fc-b406-f1c4e8876bca.png)
+
+*Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
+
+![TEG   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656245-9027f778-5449-4ed4-82c9-26b86387dd02.png)
+
+*Figure 4: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
+
+![TEG   life (Jordan)](https://user-images.githubusercontent.com/93497630/146656247-439f33c4-0789-4f63-8389-66a9596e581b.png)
+
+*Figure 5: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and life expectancy at birth – Coloured by Cluster*
+
+![TEG   school (Jordan)](https://user-images.githubusercontent.com/93497630/146656248-dac232c0-5e67-48db-8ce8-88cf41caad14.png)
+
+*Figure 6: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and expected years of schooling – Coloured by Cluster*
 
 ## [put at the bottom of the webpage]
 
@@ -31,4 +46,4 @@ The code used to calculate the correlation coefficients and regression statistic
 
 The code used to calculate the Kendall tau coefficients can be found here.
 
-The code used to plot clustering graphs can be found here.
+The code used to plot clustering graphs and calculate Silhouette scores can be found here.
