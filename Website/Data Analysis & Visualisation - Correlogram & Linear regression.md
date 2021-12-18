@@ -12,7 +12,7 @@ The 𝑅-squared value (also known as the coefficient of determination) is a st
 Table: Summary of correlation coefficients & regression statistics
 <img width="1048" alt="Screen Shot 2021-12-18 at 5 18 41 PM" src="https://user-images.githubusercontent.com/93497630/146650056-c707b441-c8c9-44a6-ab73-4f4fa5eba011.png">
 
-## *Correlation & linear regression analysis*
+## *Correlation & Linear regression analysis*
 For regression in Subplot A, B, C and F, the low Pearson coefficients highlight a very weak linear correlation between the two paired variables in each case, which can also be observed from the scatterplot per se. 
 
 The p-value of 0.11 for Subplot C, much higher than the threshold significance level 0.05, indicates that there is a 11% probability (very likely) that the relationship shown could have arisen by random chance. There is no real evidence for any of the regression results being valid in this case. Thus, there is no statistically significant linear relationship between TES per capita and expected years of schooling. Likewise, given the fairly high p-value of 0.35 for Subplot F, a similar conclusion can be reached that no genuine linear relationship exists between TEG per capita and expected years of schooling. This informs us that linear correlation is unlikely to exist between the amount of energy supply (or electricity generation) available to an average Lebanese resident and the ‘education’ dimension measured by the years of school education that a child of school entrance age may expect to receive in Lebanon. 
