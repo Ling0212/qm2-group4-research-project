@@ -12,7 +12,7 @@ Table: Summary of correlation coefficients and regression statistics
 .... (analyse the statistical values in a similar way - Marie)
 
 
-# Clustering graphs & outcomes
+# Clustering graphs & Analysis
 
 ![ECG vs schooling](https://user-images.githubusercontent.com/92082534/145281410-b73e60db-4597-4b83-a8fa-3e2a7eb78276.png)
 ![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281413-5e6e5836-8c33-4a47-85c7-b85dcefde245.png)
