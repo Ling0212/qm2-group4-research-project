@@ -1,26 +1,18 @@
-Correlogram for Jordan's data
+Here, we adopt the same approach of analysis for the Jordan data.
 
-<img width="746" alt="Capture d’écran 2021-12-09 à 4 29 55 PM" src="https://user-images.githubusercontent.com/93673467/145436584-6199a17f-7f35-4687-875a-3e4ccbaa091a.png">
+# Correlation & Linear regression analysis
+
+<img width="746" alt="correlogram (Jordan)" src="https://user-images.githubusercontent.com/93497630/146651216-279d3c69-846b-40d5-9564-86edbdd0efad.png">
+
+*Correlogram showing the whole dataset on Jordan with linear regression model performed on each subplot*
+
+Table: Summary of correlation coefficients and regression statistics  
+<img width="1051" alt="Screen Shot 2021-12-18 at 6 24 09 PM" src="https://user-images.githubusercontent.com/93497630/146652030-d2409f81-22f9-47fa-bb60-a0938587a857.png">
+ 
+.... (analyse the statistical values in a similar way - Marie)
 
 
-Spearman's & Pearson's coefficients for Jordan
-
-<img width="857" alt="Capture d’écran 2021-12-06 à 11 04 03 PM" src="https://user-images.githubusercontent.com/93673467/144937047-2c3bc7ec-8528-4d62-96e5-44e4e245da24.png">
-
-Kendall Tau
-
-<img width="857" alt="Capture d’écran 2021-12-13 à 7 35 55 PM" src="https://user-images.githubusercontent.com/93673467/145877681-51429811-cc81-40a8-ae91-68fd5dbae2e1.png">
-
-
-Linear Regression Analysis
-
-<img width="470" alt="Capture d’écran 2021-12-09 à 5 19 51 PM" src="https://user-images.githubusercontent.com/93673467/145444793-5fea61f9-fa43-44e9-bdc3-da414d638623.png">
-
-<img width="470" alt="Capture d’écran 2021-12-09 à 5 21 20 PM" src="https://user-images.githubusercontent.com/93673467/145445064-ccf1698c-8525-4fa6-8107-af70592412bf.png">
-
-<img width="470" alt="Capture d’écran 2021-12-09 à 5 21 30 PM" src="https://user-images.githubusercontent.com/93673467/145445085-55fa2120-99e9-4ced-9418-5c362d82f164.png">
-
-## Clustering for the data on Jordan
+# Clustering graphs & outcomes
 
 ![ECG vs schooling](https://user-images.githubusercontent.com/92082534/145281410-b73e60db-4597-4b83-a8fa-3e2a7eb78276.png)
 ![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281413-5e6e5836-8c33-4a47-85c7-b85dcefde245.png)
@@ -30,9 +22,13 @@ Linear Regression Analysis
 ![tes vs life](https://user-images.githubusercontent.com/92082534/145262505-90fcd721-3233-4a4f-a18d-36ce328397df.png)
 ![tes vs schooling](https://user-images.githubusercontent.com/92082534/145262506-c34787c3-bbbc-4d57-bf88-e7980def459e.png)
 
+## [put at the bottom of the webpage]
+
 The code used to plot the correlogram can he found here. (give a link to the GitHub page with the lines of code on it)
 <img width="620" alt="Capture d’écran 2021-12-09 à 4 29 44 PM" src="https://user-images.githubusercontent.com/93673467/145436543-87e2fba6-0ef3-4d3d-a08f-4b25db372135.png">
 
 The code used to calculate the correlation coefficients and regression statistics can be found here. (give a link to the GitHub page with the lines of code on it)
 
 The code used to calculate the Kendall tau coefficients can be found here.
+
+The code used to plot clustering graphs can be found here.
