@@ -33,7 +33,7 @@ As we have different units and distributions in the five variables, technical st
 
 ## [put at the bottom of the webpage]
 
-The code used to plot clustering graphs can be found here.
+The code used to plot clustering graphs and calculate Silhouette scores can be found here.
 
     num_clusters = 2
     fig_title = 'title of graph'
