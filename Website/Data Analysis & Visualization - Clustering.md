@@ -1,20 +1,3 @@
-As we have different units and distributions in the five variables, technical standardization will be applied across the datasets using the formula 𝑧 = (𝑥−𝜇 )/𝜎 (whether use Z-score standardization depends on whether all data points are roughly symmetrically distributed) in Excel, to obtain manipulated data on a comparable scale. 		
-Perform clustering on all the variables by years & calculate Silhouette scores to assess the clustering quality, i.e. how strongly data is clustered→ The clustering results with the optimal number of clusters (highest silhouette scores) will be ultimately presented, summarized and analyzed.→ to identify different clusters of years→ analyse the electricity generation/energy supply per capita & social wellbeing relationship in relation to turbulent events that repeatedly happened in certain clustered years
-* present six clustering graphs
-
-1. Please don’t type the title for each clustering graph on Python, later I will manually add the title underneath each graph (also for aesthetics purpose), but could you name the x-axis and y-axis for each graph in this way⬇️? It seems clearer and more precise naming in this way.
-
-for example
-
-X-axis: Standardised data (min-max rescaled) of electricity generation per capita
-
-Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
-
-2. for each clustering graph, use ONE TABLE to clearly summarise: the number of data points in each cluster, max, min, mean for each variable in each cluster - Lydia works on 3 graphs & Marie works on 3 graphs
-
-—> then combine clustering findings from all the 6 clustering graphs on Lebanon to analyse the relationship between TES per capita/EG per capita and social wellbeing
-
-* repeat "2" for Jordan - Diane works on 3 graphs and Enrico works on 3 graphs
 
 ## Lebanon
 ![EGC vs GNI](https://user-images.githubusercontent.com/92082534/145281836-82c7f29d-9b5a-4779-a08e-523b9bbe0e0f.png)
@@ -27,8 +10,9 @@ Y-axis: Standardised data (min-max rescaled) of life expectancy at birth
 
 
 
+## [put at the bottom of the webpage]
 
-## K-MEANS CLUSTERING IN PYTHON
+The code used to plot clustering graphs can be found here.
 
     num_clusters = 2
     fig_title = 'title of graph'
