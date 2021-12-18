@@ -1,8 +1,5 @@
 Correlogram for Jordan's data
 
-
-
->> visualisation
 <img width="746" alt="Capture d’écran 2021-12-09 à 4 29 55 PM" src="https://user-images.githubusercontent.com/93673467/145436584-6199a17f-7f35-4687-875a-3e4ccbaa091a.png">
 
 
