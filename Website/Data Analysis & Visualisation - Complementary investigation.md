@@ -1,22 +1,22 @@
 Here, on the data collected for Jordan, we conduct the same quantitative techniques and adopt the same approaches of analysis.
 
-# Correlation & Linear regression analysis
+# Correlation & Linear regression 
 
 <img width="746" alt="correlogram (Jordan)" src="https://user-images.githubusercontent.com/93497630/146651216-279d3c69-846b-40d5-9564-86edbdd0efad.png">
 
 *Correlogram showing Jordan's data with linear regression model performed on each subplot*
 
 Table: Summary of correlation coefficients and regression statistics  
-<img width="1051" alt="Screen Shot 2021-12-18 at 6 24 09 PM" src="https://user-images.githubusercontent.com/93497630/146652030-d2409f81-22f9-47fa-bb60-a0938587a857.png">
- 
-.... (analyse the statistical values in a similar way - Marie)
+<img width="733" alt="Screen Shot 2021-12-19 at 1 36 45 PM" src="https://user-images.githubusercontent.com/93497630/146676861-8f0518a9-a40b-42de-b877-a32cecfa9908.png">
+
+## Analysis of statistical values
 
 Primarily observing the scatterplots depicted in subplots B and F, we can assume that there is no linear or monotonic relationship existing between the Total Energy Supply (TES) per capita and Life Expectancy, as well as between the Total Electricity Generation (TEG) and Expected Years of Schooling. The corresponding Pearson and Kendall tau coefficients confirm our first review, since these values are way below the significance level set at 0.5.
 
 
 Subplot A visualises the correlation between the TES per capita and the Gross National Income (GNI) per capita, which at first appears to follow a linear relationship. With a Pearson coefficient of 0.63 and a low p-value of 0.0002, the model found is indeed linear and significantly affirmed. However, the Kendall tau and R-squared value prove that the relation is not monotonic and strong.
 
-The three subplots C, D and E illustrate the most relevant correlations to examine in our complementary analysis concerning Jordan data, between 1990 and 2019. They respectively portray the relationship between the TES per capita and Expected Years of Schooling, the TEG and the GNI per capita and finally between the TEG per capita  and Life Expectancy. According to Pearson coefficients, Kendall tau, p-values and R-squared values, we establish three strong and significant linear-monotonic relationships between our variables. Indeed, all the coefficients and statistical values calculated respect their proper significance level or interval.  
+The three subplots C, D and E illustrate the most relevant correlations to examine in our complementary analysis concerning Jordan data, from 1990 to 2019. They respectively portray the relationship between the TES per capita and expected years of schooling, the TEG per capita and the GNI per capita, and finally between the TEG per capita  and life expectancy. According to Pearson coefficients, Kendall tau, p-values and R-squared values, we establish three strong and significant linear-monotonic relationships between our variables. Indeed, all the coefficients and statistical values calculated respect their proper significance level or interval.  
 
 
 # Clustering graphs & Analysis
