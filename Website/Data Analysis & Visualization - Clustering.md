@@ -1,18 +1,21 @@
 To attempt to examine more closely the yearly variation regarding the relationship between energy supply (electricity generation) per capita & social wellbeing in Lebanon in the past three decades, K-means clustering is applied on the dataset to identify different clusters of years. The 30 years (from 1990 to 2019) are clustered by the variables of research interest, to produce more meaningful analysis.
 
-As we have different units and distributions in the five variables, technical standardisation is applied across the dataset using the formula x’ = (x - xmin) / (xmax - xmin) in Excel, to obtain manipulated data on a comparable scale. Min-max rescaling is an appropriate approach to undertake here since the density plots drawn before (at the diagonal of the correlogram) show that most data points are unsymmetrically distributed (bar expected years of schooling and GNI per capita). Rescaled data values are then inputted into a Python programme to implement K-means clustering and to calculate Silhouette scores for assessing the clustering quality, i.e. how strongly data is clustered. The clustering results with the optimal number of clusters (highest silhouette scores) will be ultimately presented, summarised and analysed using tables.
+As we have different units and distributions in the five variables, technical standardisation is applied across the dataset using the formula x’ = (x - xmin) / (xmax - xmin) in Excel, to obtain manipulated data on a comparable scale. Min-max rescaling is an appropriate approach to undertake here since the density plots drawn before (at the diagonal of the correlogram) show that most data points are unsymmetrically distributed (bar data for 'Expected years of schooling' and 'GNI per capita'). Rescaled data values are then inputted into a Python programme to implement K-means clustering and to calculate Silhouette scores for assessing the clustering quality, i.e. how strongly data is clustered. The clustering results with the optimal number of clusters (highest silhouette scores) will be ultimately presented, summarised and analysed using tables.
 
 ## Clustering graphs & analysis
 ![TES   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655857-1f75d45b-29ae-4168-b44c-aa58efb99b9e.png)
 
 *Figure 1: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and GNI per capita – Coloured by Cluster*
 
+Table 1: Summary and analysis of clustering results from Figure 1
+<img width="736" alt="Screen Shot 2021-12-19 at 9 34 10 PM" src="https://user-images.githubusercontent.com/93497630/146691684-2689b342-3d69-4119-839d-185ee76538a9.png">
+
 ![TES   life (Lebanon)](https://user-images.githubusercontent.com/93497630/146655859-88aca7d8-e768-4b1b-b46a-f22af96eaea8.png)
 
 *Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
 
 Table 2: Summary and analysis of clustering results from Figure 2 
-<img width="733" alt="Screen Shot 2021-12-19 at 5 36 26 PM" src="https://user-images.githubusercontent.com/93497630/146684910-8b7f5bc3-9d52-4007-9b0c-5388ecc93a5b.png">
+ <img width="733" alt="Screen Shot 2021-12-19 at 9 34 37 PM" src="https://user-images.githubusercontent.com/93497630/146691690-3296dabd-6fa4-4473-964c-b3f83df83c96.png">
 
 ![TES   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655860-f1d76155-92b2-4159-9123-7af0c700cd43.png)
 
