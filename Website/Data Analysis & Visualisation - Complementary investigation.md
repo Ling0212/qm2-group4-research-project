@@ -11,6 +11,13 @@ Table: Summary of correlation coefficients and regression statistics
  
 .... (analyse the statistical values in a similar way - Marie)
 
+Primarily observing the scatterplots depicted in subplots B and F, we can assume that there is no linear or monotonic relationship existing between the Total Energy Supply (TES) per capita and Life Expectancy, as well as between the Total Electricity Generation (TEG) and Expected Years of Schooling. The corresponding Pearson and Kendall tau coefficients confirm our first review, since these values are way below the significance level set at 0.5.
+
+
+Subplot A visualises the correlation between the TES per capita and the Gross National Income (GNI) per capita, which at first appears to follow a linear relationship. With a Pearson coefficient of 0.63 and a low p-value of 0.0002, the model found is indeed linear and significantly affirmed. However, the Kendall tau and R-squared value prove that the relation is not monotonic and strong.
+
+The three subplots C, D and E illustrate the most relevant correlations to examine in our complementary analysis concerning Jordan data, between 1990 and 2019. They respectively portray the relationship between the TES per capita and Expected Years of Schooling, the TEG and the GNI per capita and finally between the TEG per capita  and Life Expectancy. According to Pearson coefficients, Kendall tau, p-values and R-squared values, we establish three strong and significant linear-monotonic relationships between our variables. Indeed, all the coefficients and statistical values calculated respect their proper significance level or interval.  
+
 
 # Clustering graphs & Analysis
 ![TES   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656234-21d0724c-191b-4b8c-bb05-4d6d2371fd78.png)
