@@ -11,6 +11,9 @@ As we have different units and distributions in the five variables, technical st
 
 *Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
 
+Table 2: Summary and analysis of clustering results from Figure 2 
+<img width="733" alt="Screen Shot 2021-12-19 at 5 36 26 PM" src="https://user-images.githubusercontent.com/93497630/146684910-8b7f5bc3-9d52-4007-9b0c-5388ecc93a5b.png">
+
 ![TES   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655860-f1d76155-92b2-4159-9123-7af0c700cd43.png)
 
 *Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
