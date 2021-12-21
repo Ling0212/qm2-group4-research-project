@@ -21,6 +21,10 @@ Table 2: Summary and analysis of clustering results from Figure 2
 
 *Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
 
+Table 3: Summary and analysis of clustering results from Figure 3
+
+<img width="700" alt="Capture d’écran 2021-12-21 à 12 28 20 PM" src="https://user-images.githubusercontent.com/93673467/146922941-722e9f96-c528-408c-98be-9841b385e100.png">
+
 ![TEG   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655863-3b9fab71-66f9-491f-8094-68f4906a9bb4.png)
 
 *Figure 4: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
