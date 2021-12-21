@@ -22,24 +22,28 @@ Table 2: Summary and analysis of clustering results from Figure 2
 *Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
 
 Table 3: Summary and analysis of clustering results from Figure 3
-
-<img width="700" alt="Capture d’écran 2021-12-21 à 12 28 20 PM" src="https://user-images.githubusercontent.com/93673467/146922941-722e9f96-c528-408c-98be-9841b385e100.png">
+<img width="728" alt="Screen Shot 2021-12-21 at 6 23 31 PM" src="https://user-images.githubusercontent.com/93497630/146980073-9fb9002a-7cd6-40e8-bebd-fedf060ecdc9.png">
 
 ![TEG   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655863-3b9fab71-66f9-491f-8094-68f4906a9bb4.png)
 
 *Figure 4: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
 
+Table 4: Summary and analysis of clustering results from Figure 4
+<img width="734" alt="Screen Shot 2021-12-21 at 6 24 04 PM" src="https://user-images.githubusercontent.com/93497630/146980179-f8898ff2-ac68-449d-9e3a-01bad426945c.png">
+
 ![TEG   life (Lebanon)](https://user-images.githubusercontent.com/93497630/146655867-8eb66636-52b6-4a87-b36e-745bcd69cce3.png)
 
 *Figure 5: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and life expectancy at birth – Coloured by Cluster*
+
+Table 5: Summary and analysis of clustering results from Figure 5
+<img width="735" alt="Screen Shot 2021-12-21 at 6 24 29 PM" src="https://user-images.githubusercontent.com/93497630/146980223-79edc832-315f-432b-9883-553953bd263e.png">
 
 ![TEG   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655869-3aefca4d-e627-478c-987f-c9507dc4e2bf.png)
 
 *Figure 6: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and expected years of schooling – Coloured by Cluster*
 
-
-
-
+Table 6: Summary and analysis of clustering results from Figure 6
+<img width="734" alt="Screen Shot 2021-12-21 at 6 24 56 PM" src="https://user-images.githubusercontent.com/93497630/146980232-175af52e-f979-4fdb-8534-f3915eed104b.png">
 
 ## [put at the bottom of the webpage]
 
