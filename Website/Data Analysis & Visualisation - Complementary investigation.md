@@ -24,6 +24,8 @@ The three subplots C, D and E illustrate the most relevant correlations to exami
 
 *Figure 1: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and GNI per capita – Coloured by Cluster*
 
+<img width="1353" alt="Capture d’écran 2021-12-22 à 23 46 25" src="https://user-images.githubusercontent.com/93881303/147163504-1eb35e0b-3097-4f6a-83e7-023919c6cf24.png">
+
 ![TES   life (Jordan)](https://user-images.githubusercontent.com/93497630/146656237-b63c07d4-099a-495d-92d0-5042ef171ecf.png)
 
 *Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
