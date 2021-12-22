@@ -26,13 +26,23 @@ The three subplots C, D and E illustrate the most relevant correlations to exami
 
 <img width="1353" alt="Capture d’écran 2021-12-22 à 23 46 25" src="https://user-images.githubusercontent.com/93881303/147163504-1eb35e0b-3097-4f6a-83e7-023919c6cf24.png">
 
+*Table 1: Summary and analysis of clustering results from Figure 1 
+
 ![TES   life (Jordan)](https://user-images.githubusercontent.com/93497630/146656237-b63c07d4-099a-495d-92d0-5042ef171ecf.png)
 
 *Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
 
+<img width="1319" alt="Capture d’écran 2021-12-22 à 23 51 11" src="https://user-images.githubusercontent.com/93881303/147163913-055c34a0-3691-4385-9935-9fb73dfc2c09.png">
+
+*Table 2: Summary and analysis of clustering results from Figure 2
+
 ![TES   school (Jordan)](https://user-images.githubusercontent.com/93497630/146656239-1c5baa56-0606-45fc-b406-f1c4e8876bca.png)
 
 *Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
+
+<img width="1412" alt="Capture d’écran 2021-12-22 à 23 49 37" src="https://user-images.githubusercontent.com/93881303/147164017-e5b9ca2f-1a5c-4094-bcce-9ebacebf3794.png">
+
+*Table 3: Summary and analysis of clustering results from Figure 3
 
 ![TEG   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656245-9027f778-5449-4ed4-82c9-26b86387dd02.png)
 
