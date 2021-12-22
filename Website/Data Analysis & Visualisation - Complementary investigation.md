@@ -1,4 +1,4 @@
-Here, on the data collected for Jordan, we conduct the same quantitative techniques and adopt the same approaches of analysis.
+Here, we perform the same quantitative techniques on the data collected for Jordan and adopt the same approaches for analysing the outcomes.
 
 # Correlation & Linear regression 
 
