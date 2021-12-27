@@ -14,3 +14,5 @@ The results are presented in the two summary statistics tables below.
 Although these data values are lower or higher outliers (i.e. lower than the corresponding low outlier limits or higher than the corresponding high outlier limit), they should and will be included in the following analysis. There is no valid reason to remove them because they are true data points with real-world meanings constituting an important part of the data pattern.
 
 The code used to calculate the descriptive summary statistics can be found _here_. 
+>> Example of the code used for computing the Summary Statistics values for the Total Energy Supply (TJ) per capita, in Lebanon
+<img width="477" alt="Capture d’écran 2021-12-27 à 6 31 35 PM" src="https://user-images.githubusercontent.com/93673467/147494621-6a7b2f17-0f76-40a6-8336-60c2ead96290.png">
