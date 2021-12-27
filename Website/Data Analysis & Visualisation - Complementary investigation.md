@@ -25,22 +25,22 @@ The three subplots C, D and E illustrate the most relevant correlations to exami
 *Figure 7: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and GNI per capita – Coloured by Cluster*
 
 Table 7: Summary and analysis of clustering results from Figure 7
-<img width="629" alt="Screen Shot 2021-12-27 at 12 33 06 PM" src="https://user-images.githubusercontent.com/93497630/147472374-9331024a-6927-4375-9e4d-e17cfc8dc116.png">
-
+<img width="1176" alt="Screen Shot 2021-12-27 at 12 47 17 PM" src="https://user-images.githubusercontent.com/93497630/147473228-0503b9af-d458-45c0-941f-becf9a364a81.png">
+ 
 ![TES   life (Jordan)](https://user-images.githubusercontent.com/93497630/146656237-b63c07d4-099a-495d-92d0-5042ef171ecf.png)
 
 *Figure 8: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
 
 Table 8: Summary and analysis of clustering results from Figure 8
-<img width="629" alt="Screen Shot 2021-12-27 at 12 33 17 PM" src="https://user-images.githubusercontent.com/93497630/147472363-66401e13-9738-4dfb-9335-b8d04d9274d4.png">
-
+<img width="1178" alt="Screen Shot 2021-12-27 at 12 48 05 PM" src="https://user-images.githubusercontent.com/93497630/147473256-2c17ff63-2fc0-4c24-8018-7720f453f0a9.png">
+ 
 ![TES   school (Jordan)](https://user-images.githubusercontent.com/93497630/146656239-1c5baa56-0606-45fc-b406-f1c4e8876bca.png)
 
 *Figure 9: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
 
 Table 9: Summary and analysis of clustering results from Figure 9
-<img width="629" alt="Screen Shot 2021-12-27 at 12 33 31 PM" src="https://user-images.githubusercontent.com/93497630/147472345-4b6e4cfd-279c-495b-a14d-759489673d55.png">
-
+<img width="1177" alt="Screen Shot 2021-12-27 at 12 48 19 PM" src="https://user-images.githubusercontent.com/93497630/147473287-81735b39-27db-4403-8f21-7e378ed59661.png">
+ 
 ![TEG   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656245-9027f778-5449-4ed4-82c9-26b86387dd02.png)
 
 *Figure 10: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
