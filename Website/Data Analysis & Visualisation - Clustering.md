@@ -6,44 +6,34 @@ As we have different units and distributions in the five variables, technical st
 ![TES   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655857-1f75d45b-29ae-4168-b44c-aa58efb99b9e.png)
 
 *Figure 1: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and GNI per capita – Coloured by Cluster*
+<img width="1166" alt="Screen Shot 2021-12-31 at 10 52 40 PM" src="https://user-images.githubusercontent.com/93497630/147840711-e428a614-162f-4851-9f72-b0fbc1e20eb2.png">
 
-Table 1: Summary and analysis of clustering results from Figure 1
-<img width="736" alt="Screen Shot 2021-12-19 at 9 34 10 PM" src="https://user-images.githubusercontent.com/93497630/146691684-2689b342-3d69-4119-839d-185ee76538a9.png">
 
 ![TES   life (Lebanon)](https://user-images.githubusercontent.com/93497630/146655859-88aca7d8-e768-4b1b-b46a-f22af96eaea8.png)
 
 *Figure 2: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and life expectancy at birth – Coloured by Cluster*
-
-Table 2: Summary and analysis of clustering results from Figure 2 
- <img width="733" alt="Screen Shot 2021-12-19 at 9 34 37 PM" src="https://user-images.githubusercontent.com/93497630/146691690-3296dabd-6fa4-4473-964c-b3f83df83c96.png">
+<img width="1163" alt="Screen Shot 2021-12-31 at 10 53 27 PM" src="https://user-images.githubusercontent.com/93497630/147840736-183ddba1-5866-47a5-8589-0a958808940e.png">
 
 ![TES   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655860-f1d76155-92b2-4159-9123-7af0c700cd43.png)
 
 *Figure 3: Clustering 30 years (from 1990 to 2019) by total energy supply per capita and expected years of schooling – Coloured by Cluster*
-
-Table 3: Summary and analysis of clustering results from Figure 3
-<img width="728" alt="Screen Shot 2021-12-21 at 6 23 31 PM" src="https://user-images.githubusercontent.com/93497630/146980073-9fb9002a-7cd6-40e8-bebd-fedf060ecdc9.png">
+<img width="1155" alt="Screen Shot 2021-12-31 at 10 53 55 PM" src="https://user-images.githubusercontent.com/93497630/147840743-7a5fd19b-5fef-4a78-ad3b-51a7fdb67f3c.png">
 
 ![TEG   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655863-3b9fab71-66f9-491f-8094-68f4906a9bb4.png)
 
 *Figure 4: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
-
-Table 4: Summary and analysis of clustering results from Figure 4
-<img width="734" alt="Screen Shot 2021-12-21 at 6 24 04 PM" src="https://user-images.githubusercontent.com/93497630/146980179-f8898ff2-ac68-449d-9e3a-01bad426945c.png">
+<img width="1163" alt="Screen Shot 2021-12-31 at 10 54 35 PM" src="https://user-images.githubusercontent.com/93497630/147840747-74d865e6-6da4-4de3-8598-da14be8127d2.png">
 
 ![TEG   life (Lebanon)](https://user-images.githubusercontent.com/93497630/146655867-8eb66636-52b6-4a87-b36e-745bcd69cce3.png)
 
 *Figure 5: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and life expectancy at birth – Coloured by Cluster*
-
-Table 5: Summary and analysis of clustering results from Figure 5
-<img width="735" alt="Screen Shot 2021-12-21 at 6 24 29 PM" src="https://user-images.githubusercontent.com/93497630/146980223-79edc832-315f-432b-9883-553953bd263e.png">
+<img width="1163" alt="Screen Shot 2021-12-31 at 10 54 58 PM" src="https://user-images.githubusercontent.com/93497630/147840748-b585e296-3955-4a72-a893-ef9eba3a524b.png">
 
 ![TEG   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655869-3aefca4d-e627-478c-987f-c9507dc4e2bf.png)
 
 *Figure 6: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and expected years of schooling – Coloured by Cluster*
+<img width="1163" alt="Screen Shot 2021-12-31 at 10 55 38 PM" src="https://user-images.githubusercontent.com/93497630/147840749-93325186-c12a-4064-9a3d-8cb19b882f1e.png">
 
-Table 6: Summary and analysis of clustering results from Figure 6
-<img width="734" alt="Screen Shot 2021-12-21 at 6 24 56 PM" src="https://user-images.githubusercontent.com/93497630/146980232-175af52e-f979-4fdb-8534-f3915eed104b.png">
 
 ## [put at the bottom of the webpage]
 
