@@ -50,12 +50,9 @@ Table 6: Summary and analysis of clustering results from Figure 6
 The code used to plot clustering graphs and calculate Silhouette scores can be found here.
 
     num_clusters = 2
-    fig_title = 'title of graph'
     x_label   = 'Standardised data (min-max rescaled) of total energy supply per capita'
     y_label   = 'Standardised data (min-max rescaled) of gross national income per capita'
-    title_fontsize = 13
     label_fontsize = 10
-
 
     import numpy as np              # For working with numerical data
     import sklearn.cluster as sklc  # For clustering
@@ -63,10 +60,7 @@ The code used to plot clustering graphs and calculate Silhouette scores can be f
 
     data = np.genfromtxt(data_filename,delimiter = ',')
 
-
-
     kmeans_output = sklc.KMeans(n_clusters=num_clusters, n_init=1).fit(data)
-
 
     clustering_ids_kmeans = kmeans_output.labels_
 
@@ -92,13 +86,10 @@ The code used to plot clustering graphs and calculate Silhouette scores can be f
 
         data_by_cluster.append(this_data)
 
-
         def setup_figure():
 
         plt.xlabel(x_label,fontsize=label_fontsize)
         plt.ylabel(y_label,fontsize=label_fontsize)
-
-
 
     x_values = data[:,0]
     y_values = data[:,1]
@@ -114,7 +105,6 @@ The code used to plot clustering graphs and calculate Silhouette scores can be f
     num_colors = len(color_list)
     num_markers = len(marker_list)
 
-
     for i in range(num_clusters):
 
         plt.figure(i+1,figsize=(figure_width,figure_height))
@@ -128,7 +118,6 @@ The code used to plot clustering graphs and calculate Silhouette scores can be f
 
         plt.plot(x_values,y_values,color_list[i % num_colors] + '.')
         plt.savefig(output_figure_filename + '_cluster_' + str(i) + '.png')
-
 
     plt.figure(num_clusters + 1,figsize=(figure_width,figure_height))
     setup_figure()
@@ -145,9 +134,7 @@ The code used to plot clustering graphs and calculate Silhouette scores can be f
       
     plt.savefig(output_figure_filename + '.png')
 
-
     silhouette_kmeans = sklm.silhouette_score(data,clustering_ids_kmeans)
-
 
     print("Silhouette Score:", silhouette_kmeans)
 
