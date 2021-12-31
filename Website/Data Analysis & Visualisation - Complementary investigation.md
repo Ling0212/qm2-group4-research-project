@@ -7,7 +7,7 @@ Here, we perform the same quantitative techniques on the data collected for Jord
 *Correlogram showing Jordan's data with linear regression model performed on each subplot*
 
 Table: Summary of correlation coefficients and regression statistics  
-<img width="733" alt="Screen Shot 2021-12-19 at 1 36 45 PM" src="https://user-images.githubusercontent.com/93497630/146676861-8f0518a9-a40b-42de-b877-a32cecfa9908.png">
+<img width="1165" alt="Screen Shot 2021-12-31 at 10 45 14 PM" src="https://user-images.githubusercontent.com/93497630/147840582-a6aa5f9c-d9e3-4cc7-a599-d2b1c714b568.png">
 
 ## Analysis of statistical values
 
