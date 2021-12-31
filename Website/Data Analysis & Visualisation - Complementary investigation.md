@@ -41,7 +41,7 @@ Table 8: Summary and analysis of clustering results from Figure 8
 Table 9: Summary and analysis of clustering results from Figure 9
 <img width="1177" alt="Screen Shot 2021-12-27 at 12 48 19 PM" src="https://user-images.githubusercontent.com/93497630/147473287-81735b39-27db-4403-8f21-7e378ed59661.png">
  
-![TEG   GNI (Jordan)](https://user-images.githubusercontent.com/93497630/146656245-9027f778-5449-4ed4-82c9-26b86387dd02.png)
+![1a525d28-d9b1-448d-a8c6-c7bcd3b55db9-1](https://user-images.githubusercontent.com/93497630/147822017-b2ba6ded-a8c4-4ede-bfbc-e865beee14ed.jpg)
 
 *Figure 10: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
 
