@@ -1,4 +1,4 @@
-# Limitations - Enrico
+# Limitations
 
 *“Reflection on context*
 
@@ -8,7 +8,7 @@
 
 -the use of indicators: we only selected three dimensions to measure social wellbeing + the limitations of HDI conception, the other aspects like inequalities or poverty-related dimensions are not considered in our research
 
-# Highlight our important research findings - Enrico
+# Highlight our important research findings
 + combine all the findings from "Data analysis and Visualization" and "Complementary investigation" sections, especially draw upon the similarities and differences between findings on Lebaon data and those on Jordan data
 "But..."
 + research outcomes in relation to policy suggestions (pay attention to the wording, use the phrases like could be, can be...)
