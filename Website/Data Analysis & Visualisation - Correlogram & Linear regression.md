@@ -10,7 +10,7 @@ To achieve a concrete and precise understanding of the results of correlation an
 The 𝑅-squared value (also known as the coefficient of determination) is a statistical measure of how well the linear regression line fits the data points. More specifically, it determines the proportion of variance in the dependent variable (in our case, GNI per capita or life expectancy at birth or expected years of schooling) that can be explained by the independent variable (TES per capita or TEG per capita). The value can range from 0 to 1, indicating, for example, 0% to 100% of the variation in the dependent variable can be explained by the independent variable (Glen, 2020).
 
 Table: Summary of correlation coefficients & regression statistics
-<img width="1048" alt="Screen Shot 2021-12-18 at 5 18 41 PM" src="https://user-images.githubusercontent.com/93497630/146650056-c707b441-c8c9-44a6-ab73-4f4fa5eba011.png">
+<img width="1166" alt="Screen Shot 2021-12-31 at 10 44 42 PM" src="https://user-images.githubusercontent.com/93497630/147840552-8eb0bd1b-48ca-49af-851f-5c69fb81653a.png">
 
 ## *Correlation & Linear regression analysis*
 For regression in Subplot A, B, C and F, the low Pearson coefficients highlight a very weak linear correlation between the two paired variables in each case, which can also be observed from the scatterplot per se. 
