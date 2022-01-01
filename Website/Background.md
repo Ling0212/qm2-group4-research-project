@@ -10,8 +10,8 @@ Originally, we intended to carry out research on the past fifty years’ data, b
 
 # Our Aims/Motivations
 1. to further corroborate and testify the existing narratives, aiming to fill such a research gap & implement the knowledge base in this field
-2. to quantify the relationship between energy supply and social wellbeing in Lebanon in the past years from a multi-dimensional data science perspective
-3. to enhance the understanding on this current affair, i.e., whether the energy crisis and power outages have affected the social welfare of Lebanon's local residents, and if so, to what extent
+2. to enhance the understanding on this current affair, i.e., whether the energy crisis and power outages have affected the social welfare of Lebanon's local residents, and if so, to what extent
+3. to quantify the relationship between energy supply and social wellbeing in Lebanon over the thirty years (from 1990 to 2019) from a multi-dimensional data science perspective
 4. to verify whether energy-related matters deserve substantial consideration in governmental policies 
 
 # Our Objectives
