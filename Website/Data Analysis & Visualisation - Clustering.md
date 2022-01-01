@@ -22,18 +22,17 @@ As we have different units and distributions in the five variables, technical st
 ![TEG   GNI (Lebanon)](https://user-images.githubusercontent.com/93497630/146655863-3b9fab71-66f9-491f-8094-68f4906a9bb4.png)
 
 *Figure 4: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and GNI per capita – Coloured by Cluster*
-<img width="1163" alt="Screen Shot 2021-12-31 at 10 54 35 PM" src="https://user-images.githubusercontent.com/93497630/147840747-74d865e6-6da4-4de3-8598-da14be8127d2.png">
+<img width="1163" alt="Screen Shot 2022-01-01 at 12 10 17 PM" src="https://user-images.githubusercontent.com/93497630/147850263-61eadf45-f13f-440f-b507-8b2ed356087d.png">
 
 ![TEG   life (Lebanon)](https://user-images.githubusercontent.com/93497630/146655867-8eb66636-52b6-4a87-b36e-745bcd69cce3.png)
 
 *Figure 5: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and life expectancy at birth – Coloured by Cluster*
-<img width="1163" alt="Screen Shot 2021-12-31 at 10 54 58 PM" src="https://user-images.githubusercontent.com/93497630/147840748-b585e296-3955-4a72-a893-ef9eba3a524b.png">
+<img width="1164" alt="Screen Shot 2022-01-01 at 12 10 40 PM" src="https://user-images.githubusercontent.com/93497630/147850282-11375543-98a0-45d4-9c86-f52d8bd57f15.png">
 
 ![TEG   school (Lebanon)](https://user-images.githubusercontent.com/93497630/146655869-3aefca4d-e627-478c-987f-c9507dc4e2bf.png)
 
 *Figure 6: Clustering 30 years (from 1990 to 2019) by electricity generation per capita and expected years of schooling – Coloured by Cluster*
-<img width="1163" alt="Screen Shot 2021-12-31 at 10 55 38 PM" src="https://user-images.githubusercontent.com/93497630/147840749-93325186-c12a-4064-9a3d-8cb19b882f1e.png">
-
+<img width="1164" alt="Screen Shot 2022-01-01 at 12 11 13 PM" src="https://user-images.githubusercontent.com/93497630/147850284-551436a3-6d1f-4c3d-bbae-bed57ea8b363.png">
 
 ## [put at the bottom of the webpage]
 
