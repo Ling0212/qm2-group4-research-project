@@ -6,7 +6,6 @@
 # The data file must be two columns of numbers, the x values and y values - no column labels, etc.
 # It must be saved as a csv file (e.g. use "Save As" in Excel and choose csv format).
 # It must be saved in the same folder as this program.
-# See the file clustering_example_data.csv for reference.
 
 # [Actually, the file can have more than two columns. The clustering works for data with many fields.
 # However, it will only plot the first two columns against each other, for obvious reasons.]
