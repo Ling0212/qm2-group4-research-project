@@ -1,1 +1,20 @@
+# CORRELOGRAMS IN PYTHON
+# We first import and read the using pandas data we intend to plot in a correlogram, stored in a .csv file.
 
+import pandas as pd
+import numpy as np
+pd.read_csv('lebanon_data.csv', delimiter=',')
+
+# With pandas, we have here imported and read Lebanon's data saved as a .csv file. For Jordan's data, we store it in a csv file and then read it in the same manner.
+
+# Working with matplotlib.pyplot and seaborn libraries, we now plot the correlogram thanks to the following lines of code:
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+data=pd.read_csv('lebanon_data.csv', delimiter=',')
+
+sns.pairplot(data, kind='reg', diag_kind='kde', height=5)
+plt.show()
+
+# In order to simplify the code, we choose to name the data included in the .csv file 'data'.
