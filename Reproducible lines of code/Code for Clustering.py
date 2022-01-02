@@ -53,7 +53,8 @@ output_data_filename = 'complete_data_with_clusters'
 figure_width, figure_height = 10,10
 
 # These lines set the figure title and axis labels and the font sizes:
-fig_title = 'figure title'
+# In case title needs to be plotted, simply delete the hashtag
+#fig_title = 'figure title'
 x_label   = 'Standardised data (min-max rescaled) of electricity generation per capita'
 y_label   = 'Standardised data (min-max rescaled) of gross national income per capita'
 title_fontsize = 13
