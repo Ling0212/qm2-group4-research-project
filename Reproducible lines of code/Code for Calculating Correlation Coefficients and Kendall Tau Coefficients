@@ -1,1 +1,8 @@
+# KENDALL RANK CORRELATION COEFFICIENT IN PYTHON
+# We ground ourselves on the definition of the Kendall-τ, in order to create the lines of code that will compute this coefficient. This τ is defined as:
 
+τ = [(number of concordant pairs) - (number of dicordant pairs)] / [n(n - 1)/2]
+
+# We say the pair (xi, yi) and (xj, yj) is concordant when i < j if, xi < xj and yi < yj. In the same way, this pair is concordant when i > j if, xi > xj and yi > yj. Otherwise, the pair is defined as discordant.
+
+# The following lines of code allow to compute the value of the Kendall-τ, previously defined:
