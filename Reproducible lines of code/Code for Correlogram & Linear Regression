@@ -40,9 +40,39 @@ reg = LinearRegression()
 reg.fit(X, y)
 
 # We now compute the linear relationship that modelise the correlation between our two variables, thanks to the following lines:
+
 print(reg.coef_[0][0])
 print(reg.intercept_[0])
 
 print("The linear model is: Y = {:.5} + {:.5}X".format(reg.intercept_[0], reg.coef_[0][0]))
 
-# 
+# We may also visualise this precise linear model in a scatter plot:
+
+predictions = reg.predict(X)
+
+plt.figure(figsize=(16, 8))
+plt.scatter(
+    data['Total Electricity Generation  per Capita (GWh)'],
+    data['Life expectancy (years)'],
+    c='black'
+)
+plt.plot(
+    data['Total Electricity Generation  per Capita (GWh)'],
+    predictions,
+    c='blue',
+    linewidth=2
+)
+plt.xlabel("Total Electricity Generation  per Capita (GWh)")
+plt.ylabel("Life expectancy (years)")
+plt.show()
+
+# Afterwards, statsmodels.api library allow us to generate a 'regression results' table including the R-squared- and p- values. These respectively evaluate the strengh and significance of the model
+
+X2 = sm.add_constant(X)
+est = sm.OLS(y, X2)
+est2 = est.fit()
+print(est2.summary())
+
+# Nevertheless, this table gives an approximate p-value. As a means to calculate a precise p-value for the model, we add the next line of code:
+
+print(est2.pvalues)
