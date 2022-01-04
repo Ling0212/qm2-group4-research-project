@@ -1,5 +1,5 @@
 # K-MEANS CLUSTERING IN PYTHON
-
+# This program is suitable for use in Spyder
 
 # This program performs a k-means clustering on data stored in a csv file,
 
