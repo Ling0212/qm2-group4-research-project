@@ -19,6 +19,8 @@ Emmanuel, B., Wojciech, P., Marek, D. and Luc, D. (2013). The Relationship 
 
 International Energy Agency (1974). Lebanon. Available at: https://www.iea.org/countries/lebanon (Accessed: 1 November 2021).
 
+International Energy Agency (1974). Jordan. Available at: https://www.iea.org/countries/jordan (Accessed: 1 November 2021).
+
 Lanier, C. (2020). Lebanese Energy Crisis. Available at: <https://storymaps.arcgis.com/stories/0698a3a6264449d8947e23ff36d5d367> (Accessed: 5 November 2021).
 
 LEBANON RANKS 92ND IN THE WORLD IN THE HUMAN DEVELOPMENT INDEX (Anon., 2020). ECONOMIC INSIGHTS, [online] 18 December. Available at: https://economics.creditlibanais.com/Article/210203 (Accessed: 10 November 2021).
