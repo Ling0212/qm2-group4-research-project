@@ -1,5 +1,5 @@
 
-##Conclusion
+## Conclusion
 
 Thus, in conclusion, electricity generation is correlated with Lebanese wellbeing. Nevertheless, our hypothesis is not fully validated given the invalid correlations between some of our variables. While electricity generation shows a verified relationship with the components of standard of living and health, it is not the case for education. Furthermore, the relationship between electricity supply and the variables representing the wellbeing of the Lebanese is not relevant. Thus, our first objective, exploring the correlation, has been met and only allows us to validate part of our hypothesis. We have also achieved our second objective by establishing a relevant comparison with Jordan. 
 
