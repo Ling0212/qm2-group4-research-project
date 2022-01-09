@@ -1,7 +1,6 @@
 # K-MEANS CLUSTERING IN PYTHON
 # This program is suitable for use in Spyder, performing k-means clustering on our data (stored in .csv files and saved in the same folder as this program).
 # Each data file we used contains two columns of numbers, the x values and y values (we deleted the column labels, etc.).
-# [Actually, the file can have more than two columns. The clustering works for data with many fields. However, it will only plot the first two columns against each other.]
 
 # This program plots:
 #   - A scatter plot of all the data, unclustered;
@@ -24,17 +23,17 @@ num_clusters = 2
 # In the next line, we replace clustering_example_data.csv with the filename of our data:
 data_filename = 'clustering_example_data.csv'
 
-# In the next line, replace clustering_figure with the filename you wish to save the images as:
+# In the next line, we replace clustering_figure with the filename we save the images as:
 output_figure_filename = 'clustering_figure'
 # [Each image will start with this string, with a little extra to differentiate the different images.]
 
-# In the next line, replace complete_data_with_clusters.csv with the filename you wish to save the clustered data as:
+# In the next line, we replace complete_data_with_clusters.csv with the filename we save the clustered data as:
 output_data_filename = 'complete_data_with_clusters'
 
 
 # FIGURE PARAMETERS
 
-# Use the next line to set figure height and width (experiment to check the scale):
+# we use the next line to set figure height and width:
 figure_width, figure_height = 10,10
 
 # These lines set the figure title and axis labels and the font sizes:
@@ -52,7 +51,7 @@ label_fontsize = 10
 
 # SETUP
 
-# The following lines import the necessary packages. You can ignore them.
+# The following lines import the necessary packages. 
 import matplotlib.pyplot as plt # For plotting
 import numpy as np              # For working with numerical data
 import sklearn.cluster as sklc  # For clustering
@@ -104,15 +103,6 @@ for i in range(num_clusters):
 # This is a function that sets up each figure's x-limits and y-limits and axis labels.
 
 def setup_figure():
-    
-    # If you want to specify the x and y limits (which will be the same for all plots),
-    # uncomment the following four lines and set limits as required:
-    
-    #x_min, x_max = -0.1, 1
-    #y_min, y_max = -0.1, 1
-    #plt.xlim([x_min, x_max])
-    #plt.ylim([y_min, y_max])
-    
     plt.xlabel(x_label,fontsize=label_fontsize)
     plt.ylabel(y_label,fontsize=label_fontsize)
 
