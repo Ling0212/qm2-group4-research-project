@@ -1,42 +1,27 @@
 # K-MEANS CLUSTERING IN PYTHON
-# This program is suitable for use in Spyder
-
-# This program performs a k-means clustering on data stored in a csv file,
-
-# The data file must be two columns of numbers, the x values and y values - no column labels, etc.
-# It must be saved as a csv file (e.g. use "Save As" in Excel and choose csv format).
-# It must be saved in the same folder as this program.
-
-# [Actually, the file can have more than two columns. The clustering works for data with many fields.
-# However, it will only plot the first two columns against each other, for obvious reasons.]
+# This program is suitable for use in Spyder, performing k-means clustering on our data (stored in .csv files and saved in the same folder as this program).
+# Each data file we used contains two columns of numbers, the x values and y values (we deleted the column labels, etc.).
+# [Actually, the file can have more than two columns. The clustering works for data with many fields. However, it will only plot the first two columns against each other.]
 
 # This program plots:
 #   - A scatter plot of all the data, unclustered;
 #   - A scatter plot of each cluster separately;
 #   - A scatter plot of all the data, coloured by cluster.
-# All of these plots are saved to your computer, in the same folder as this Python file.
+# All of these plots are saved to the computer, in the same folder as this Python programme file.
 
-# This program also saves a csv file of the original data, with an extra column,...
-# indicating which cluster each point has been assigned to.
+# This program also saves a .csv file of the original data, with an extra column indicating which cluster each point has been assigned to.
 
-# The program also prints the silhouette score for your clustering...
-# This is a measure of how well the data is clustered, from -1 (extremely poor) to 1 (extremely strong).
+# The program also prints the silhouette score for our clustering result. This is a measure of how well the data is clustered, from -1 (extremely poor) to 1 (extremely strong).
 
 
-# SET THE FOLLOWING VARIABLES TO CONTROL HOW THE PROGRAM FUNCTIONS:
-
-    
 # CLUSTERING VARIABLES
-
-# This line sets the number of clusters you want to find:
+# This line sets the number of clusters we want to find:
 num_clusters = 2
-# [Note that this program only plots in 7 different colours,...
-# if you have more clusters, they will not all be distint in the final figure.]
+# [Note that this program only plots in 7 different colours. If we have more clusters, they will not all be distint in the final figure.]
     
-    
+ 
 # FILENAMES
-
-# In the next line, replace clustering_example_data.csv with the filename of your data:
+# In the next line, we replace clustering_example_data.csv with the filename of our data:
 data_filename = 'clustering_example_data.csv'
 
 # In the next line, replace clustering_figure with the filename you wish to save the images as:
