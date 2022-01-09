@@ -66,7 +66,7 @@ plt.xlabel("Total Electricity Generation  per Capita (GWh)")
 plt.ylabel("Life expectancy (years)")
 plt.show()
 
-# Afterwards, statsmodels.api library allow us to generate a 'regression results' table including the R-squared- and p- values. These respectively evaluate the strengh and significance of the model
+# Afterwards, statsmodels.api library allow us to generate a 'regression results' table including the R-squared values and p-values. These respectively evaluate the strengh and significance of the model.
 
 X2 = sm.add_constant(X)
 est = sm.OLS(y, X2)
