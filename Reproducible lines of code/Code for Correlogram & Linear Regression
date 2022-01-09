@@ -1,5 +1,5 @@
 # CORRELOGRAMS IN PYTHON
-# We first import and read the using pandas data we intend to plot in a correlogram, stored in a .csv file.
+# We first import and read the data using pandas we intend to plot in a correlogram, stored in a .csv file.
 
 import pandas as pd
 import numpy as np
