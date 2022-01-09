@@ -22,7 +22,7 @@ plt.show()
 
 # SIMPLE LINEAR REGRESSION ANALYSIS IN PYTHON
 # To code the linear regression analysis method, we use a diversity of libraries in python: pandas, numpy, matplotlib.pyplot, sklearn.linear_model, sklearn.metrics and statsmodels.api.
-# We first import these libraries and downoald our data from the chosen .csv file. As an example, we choose to apply linear regression analysis to Total Electricity Generation  per Capita and Life Expectancy, from 1990 to 2019 in Lebanon. We will then assess the revelancy of this model.
+# We first import these libraries and download our data from the chosen .csv file. As an example, we choose to apply linear regression analysis to Total Electricity Generation  per Capita and Life Expectancy, from 1990 to 2019 in Lebanon. We will then assess the revelancy of this model.
 
 import pandas as pd
 import numpy as np
@@ -39,7 +39,7 @@ y = data['Life expectancy (years)'].values.reshape(-1,1)
 reg = LinearRegression()
 reg.fit(X, y)
 
-# We now compute the linear relationship that modelise the correlation between our two variables, thanks to the following lines:
+# We now compute the linear relationship that modelise the correlation between our two variables, using the following code:
 
 print(reg.coef_[0][0])
 print(reg.intercept_[0])
