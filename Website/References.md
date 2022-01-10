@@ -39,13 +39,19 @@ Our World in Data (2019). Human Development Index (HDI). Available at: https://o
 
 Power Technology (2018). Jordan power shortage: Kingdom turns to renewables, nuclear and oil-shale. Available at: https://www.power-technology.com/comment/jordan-power-shortage-kingdom-turns-renewables-nuclear-oil-shale/ (Accessed: 29 November 2021).
 
-Reuters News (2020). Special Report: Lebanon’s power struggle – why a failing state can’t get the lights on. Available at: https://www.reuters.com/article/us-lebanon-crisis-power-special-report-idUSKCN25626G (Accessed: 1 Novomber 2021).
+Real Python (n.d.). NumPy, SciPy, and Pandas: Correlation With Python. Available at: https://realpython.com/numpy-scipy-pandas-correlation-python/#author (Accessed: 17 December 2021)
+
+Reuters News (2020). Special Report: Lebanon’s power struggle – why a failing state can’t get the lights on. Available at: https://www.reuters.com/article/us-lebanon-crisis-power-special-report-idUSKCN25626G (Accessed: 1 November 2021).
 
 Reuters News (2021). Lebanon restores power supply after complete halt. Available at: https://www.reuters.com/business/energy/lebanon-restores-power-supply-after-complete-halt-2021-10-10/ (Accessed: 1 Novomber 2021).
 
 Salti, N., Chaaban, J., Irani, A. and Mokdad, R. A. (2021). ‘A Multi‐Dimensional Measure of Well‐being among Youth: The Case of Palestinian Refugee Youth in Lebanon’, Social Indicators Research, 154, pp.1–34. doi: https://doi.org/10.1007/s11205-020-02534-1.
 
 StatsTest.com (n.d.). Kendall’s Tau. Available at: https://www.statstest.com/kendalls-tau/ (Accessed: 17 December, 2021)
+
+Towards Data Science (2019). The Complete Guide to Linear Regression in Python. Available at: https://towardsdatascience.com/the-complete-guide-to-linear-regression-in-python-3d3f8f06bf8 (Accessed: 17 December 2021)
+
+Tutorialpoints (n.d.). Python Pandas - Descriptive Statistics. Available at: https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm (Accessed: 17 December 2021)
 
 UNITED NATIONS DEVELOPMENT PROGRAMME (n.d.). Life expectancy at birth (years). Available at: http://hdr.undp.org/en/indicators/69206 (Accessed: 10 November 2021).
 
