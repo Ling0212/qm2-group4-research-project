@@ -22,7 +22,7 @@ plt.show()
 
 # SIMPLE LINEAR REGRESSION ANALYSIS IN PYTHON
 # To code the linear regression analysis method, we use a diversity of libraries in python: pandas, numpy, matplotlib.pyplot, sklearn.linear_model, sklearn.metrics and statsmodels.api.
-# We first import these libraries and download our data from the chosen .csv file. As an example, we choose to apply linear regression analysis to Total Electricity Generation  per Capita and Life Expectancy, from 1990 to 2019 in Lebanon. We will then assess the revelancy of this model.
+# We first import these libraries and download our data from the chosen .csv file. As an example, we choose to apply linear regression analysis to Total Electricity Generation per Capita and Life Expectancy, from 1990 to 2019 in Lebanon. We will then assess the revelancy of this model.
 
 import pandas as pd
 import numpy as np
@@ -66,7 +66,7 @@ plt.xlabel("Total Electricity Generation  per Capita (GWh)")
 plt.ylabel("Life expectancy (years)")
 plt.show()
 
-# Afterwards, statsmodels.api library allow us to generate a 'regression results' table including the R-squared values and p-values. These respectively evaluate the strengh and significance of the model.
+# Afterwards, statsmodels.api library allows us to generate a 'regression results' table including the R-squared values and p-values. These respectively evaluate the strengh and significance of the model.
 
 X2 = sm.add_constant(X)
 est = sm.OLS(y, X2)
